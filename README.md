@@ -37,14 +37,13 @@ room_acoustics_SED/
 └── IN2025_1070751.pdf
 ```
 
-- `code/audio_generation/`: Scripts and notebooks to generate the audio and process annotations.
-- `data/annotations.csv`: Metadata for each audio segment (YouTube ID, timestamp, class label).
-- `data/experiment_results.csv`: Frame-level metrics and summary statistics from all experimental runs.
-- `images/results_single_class.png`: Analysis of the first 30 minutes (single classes).
-- `images/results_overlap_classA.png`: Analysis of the last 30 minutes — focus on one class in overlapping pairs.
-- `images/results_overlap_classB.png`: Analysis of the last 30 minutes — focus on the complementary class.
-- `audio/experiment_audio.wav`: The standardized 60-minute audio stimulus used in all experiments.
-- `ARTICLE.pdf`: The full article as submitted to INTER-NOISE 2025.
+- `audio_generation.py`: Scripts and notebooks to generate the audio and process annotations.
+- `annotations.csv`: Metadata for each audio segment (YouTube ID, timestamp, class label).
+- `results.csv`: Frame-level metrics and summary statistics from all experimental runs.
+- `results_single_class.png`: Analysis of the first 30 minutes (single classes).
+- `results_overlap_classA.png`: Analysis of the last 30 minutes — focus on one class in overlapping pairs.
+- `results_overlap_classB.png`: Analysis of the last 30 minutes — focus on the complementary class.
+- `IN2025_1070751.pdf`: The full article as submitted to INTER-NOISE 2025.
 
 ---
 
