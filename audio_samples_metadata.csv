@@ -1,0 +1,701 @@
+class_name,original_labels,final_audio_time,youtube_link_1,youtube_sample_time_1,youtube_link_2,youtube_sample_time_2
+baby_cry_infant_cry,"baby cry, infant cry",0.0 to 5.0,https://www.youtube.com/watch?v=-7uZTWVNI4s,31.0 to 36.0,N/A,N/A
+baby_cry_infant_cry,"baby cry, infant cry",5.0 to 10.0,https://www.youtube.com/watch?v=-bnjqdi3nDE,31.0 to 36.0,N/A,N/A
+baby_cry_infant_cry,"baby cry, infant cry",10.0 to 15.0,https://www.youtube.com/watch?v=-gk3LALyrZg,41.0 to 46.0,N/A,N/A
+baby_cry_infant_cry,"baby cry, infant cry",15.0 to 20.0,https://www.youtube.com/watch?v=03Hgkn0DIA8,31.0 to 36.0,N/A,N/A
+baby_cry_infant_cry,"baby cry, infant cry",20.0 to 25.0,https://www.youtube.com/watch?v=06HoMht81hE,1.0 to 2.0,N/A,N/A
+baby_cry_infant_cry,"baby cry, infant cry",25.0 to 30.0,https://www.youtube.com/watch?v=0VDWv2I1bDY,4.0 to 9.0,N/A,N/A
+baby_cry_infant_cry,"baby cry, infant cry",30.0 to 35.0,https://www.youtube.com/watch?v=0lq5Oey7ChY,31.0 to 36.0,N/A,N/A
+baby_cry_infant_cry,"baby cry, infant cry",35.0 to 40.0,https://www.youtube.com/watch?v=14ekd4nkpwc,29.0 to 34.0,N/A,N/A
+baby_cry_infant_cry,"baby cry, infant cry",40.0 to 45.0,https://www.youtube.com/watch?v=1LQBKRQtQHg,7.0 to 12.0,N/A,N/A
+baby_cry_infant_cry,"baby cry, infant cry",45.0 to 50.0,https://www.youtube.com/watch?v=1MMh5GpXplE,31.0 to 36.0,N/A,N/A
+baby_cry_infant_cry,"baby cry, infant cry",50.0 to 55.0,https://www.youtube.com/watch?v=1SA3fcQaO_c,9.0 to 14.0,N/A,N/A
+baby_cry_infant_cry,"baby cry, infant cry",55.0 to 60.0,https://www.youtube.com/watch?v=1ipyPEo9jus,22.0 to 27.0,N/A,N/A
+baby_cry_infant_cry,"baby cry, infant cry",60.0 to 65.0,https://www.youtube.com/watch?v=22ZIWghCrDk,14.0 to 19.0,N/A,N/A
+baby_cry_infant_cry,"baby cry, infant cry",65.0 to 70.0,https://www.youtube.com/watch?v=2cTMDUcVMeg,31.0 to 36.0,N/A,N/A
+baby_cry_infant_cry,"baby cry, infant cry",70.0 to 75.0,https://www.youtube.com/watch?v=2xuhfIVuOq0,6.0 to 11.0,N/A,N/A
+baby_cry_infant_cry,"baby cry, infant cry",75.0 to 80.0,https://www.youtube.com/watch?v=33D-gg4ZYyc,31.0 to 36.0,N/A,N/A
+baby_cry_infant_cry,"baby cry, infant cry",80.0 to 85.0,https://www.youtube.com/watch?v=3FJN4BZSO78,18.0 to 23.0,N/A,N/A
+baby_cry_infant_cry,"baby cry, infant cry",85.0 to 90.0,https://www.youtube.com/watch?v=3bSO8KWPbZM,31.0 to 36.0,N/A,N/A
+baby_cry_infant_cry,"baby cry, infant cry",90.0 to 95.0,https://www.youtube.com/watch?v=3i0bbtKTFDc,9.0 to 14.0,N/A,N/A
+baby_cry_infant_cry,"baby cry, infant cry",95.0 to 100.0,https://www.youtube.com/watch?v=3pG8P6m0E4I,31.0 to 36.0,N/A,N/A
+baby_cry_infant_cry,"baby cry, infant cry",100.0 to 105.0,https://www.youtube.com/watch?v=3sZMw6BdA1Y,31.0 to 36.0,N/A,N/A
+baby_cry_infant_cry,"baby cry, infant cry",105.0 to 110.0,https://www.youtube.com/watch?v=3uUCjXOapM4,12.0 to 17.0,N/A,N/A
+baby_cry_infant_cry,"baby cry, infant cry",110.0 to 115.0,https://www.youtube.com/watch?v=3v7q1xTR2LQ,31.0 to 36.0,N/A,N/A
+baby_cry_infant_cry,"baby cry, infant cry",115.0 to 120.0,https://www.youtube.com/watch?v=3vJBnPSyc1M,10.0 to 15.0,N/A,N/A
+music,music,120.0 to 125.0,https://www.youtube.com/watch?v=---B_v8ZoBY,31.0 to 36.0,N/A,N/A
+music,music,125.0 to 130.0,https://www.youtube.com/watch?v=--0AzKXCHj8,23.0 to 28.0,N/A,N/A
+music,music,130.0 to 135.0,https://www.youtube.com/watch?v=--2URMA4_Gw,31.0 to 36.0,N/A,N/A
+music,music,135.0 to 140.0,https://www.youtube.com/watch?v=--3FNDQ-EfE,31.0 to 36.0,N/A,N/A
+music,music,140.0 to 145.0,https://www.youtube.com/watch?v=--3hodJyWWM,21.0 to 26.0,N/A,N/A
+music,music,145.0 to 150.0,https://www.youtube.com/watch?v=--3lOAqWlwI,31.0 to 36.0,N/A,N/A
+music,music,150.0 to 155.0,https://www.youtube.com/watch?v=--4r-bP8sfE,31.0 to 36.0,N/A,N/A
+music,music,155.0 to 160.0,https://www.youtube.com/watch?v=--4rtcXPH0c,31.0 to 36.0,N/A,N/A
+music,music,160.0 to 165.0,https://www.youtube.com/watch?v=--8naMk20PA,30.0 to 35.0,N/A,N/A
+music,music,165.0 to 170.0,https://www.youtube.com/watch?v=--9qaflvptM,31.0 to 36.0,N/A,N/A
+music,music,170.0 to 175.0,https://www.youtube.com/watch?v=--ALJdZpYoA,31.0 to 36.0,N/A,N/A
+music,music,175.0 to 180.0,https://www.youtube.com/watch?v=--ALMd2UbwA,31.0 to 36.0,N/A,N/A
+music,music,180.0 to 185.0,https://www.youtube.com/watch?v=--AndYr26Ns,91.0 to 96.0,N/A,N/A
+music,music,185.0 to 190.0,https://www.youtube.com/watch?v=--BnbZUiZ8o,31.0 to 36.0,N/A,N/A
+music,music,190.0 to 195.0,https://www.youtube.com/watch?v=--C6HJ_gBPI,31.0 to 36.0,N/A,N/A
+music,music,195.0 to 200.0,https://www.youtube.com/watch?v=--CIar_Kl4Y,31.0 to 36.0,N/A,N/A
+music,music,200.0 to 205.0,https://www.youtube.com/watch?v=--CZ-HqbveY,31.0 to 36.0,N/A,N/A
+music,music,205.0 to 210.0,https://www.youtube.com/watch?v=--Dqm421zY0,31.0 to 36.0,N/A,N/A
+music,music,210.0 to 215.0,https://www.youtube.com/watch?v=--F4laYscYE,31.0 to 36.0,N/A,N/A
+music,music,215.0 to 220.0,https://www.youtube.com/watch?v=--F7pocClyA,31.0 to 36.0,N/A,N/A
+music,music,220.0 to 225.0,https://www.youtube.com/watch?v=--FMnzXQLik,31.0 to 36.0,N/A,N/A
+music,music,225.0 to 230.0,https://www.youtube.com/watch?v=--G3Nkp8kbY,31.0 to 36.0,N/A,N/A
+music,music,230.0 to 235.0,https://www.youtube.com/watch?v=--GO4mUUJrE,22.0 to 27.0,N/A,N/A
+music,music,235.0 to 240.0,https://www.youtube.com/watch?v=--GV991-tmA,31.0 to 36.0,N/A,N/A
+speech,speech,240.0 to 245.0,https://www.youtube.com/watch?v=---2_BBVHAA,31.0 to 36.0,N/A,N/A
+speech,speech,245.0 to 250.0,https://www.youtube.com/watch?v=---qub7uxgs,31.0 to 36.0,N/A,N/A
+speech,speech,250.0 to 255.0,https://www.youtube.com/watch?v=--0B3G_C3qc,11.0 to 16.0,N/A,N/A
+speech,speech,255.0 to 260.0,https://www.youtube.com/watch?v=--0CNhurbZE,31.0 to 36.0,N/A,N/A
+speech,speech,260.0 to 265.0,https://www.youtube.com/watch?v=--0F7kbzAMA,31.0 to 36.0,N/A,N/A
+speech,speech,265.0 to 270.0,https://www.youtube.com/watch?v=--0MF9K5N30,31.0 to 36.0,N/A,N/A
+speech,speech,270.0 to 275.0,https://www.youtube.com/watch?v=--0pVlB7mQ8,31.0 to 36.0,N/A,N/A
+speech,speech,275.0 to 280.0,https://www.youtube.com/watch?v=--0ukMG7yH4,31.0 to 36.0,N/A,N/A
+speech,speech,280.0 to 285.0,https://www.youtube.com/watch?v=--1Bi_4aXyU,31.0 to 36.0,N/A,N/A
+speech,speech,285.0 to 290.0,https://www.youtube.com/watch?v=--1nnAww5MY,171.0 to 176.0,N/A,N/A
+speech,speech,290.0 to 295.0,https://www.youtube.com/watch?v=--27rbu__kM,31.0 to 36.0,N/A,N/A
+speech,speech,295.0 to 300.0,https://www.youtube.com/watch?v=--296-zXH3I,31.0 to 36.0,N/A,N/A
+speech,speech,300.0 to 305.0,https://www.youtube.com/watch?v=--2ENPwFQLY,31.0 to 36.0,N/A,N/A
+speech,speech,305.0 to 310.0,https://www.youtube.com/watch?v=--30J4RIDXs,31.0 to 36.0,N/A,N/A
+speech,speech,310.0 to 315.0,https://www.youtube.com/watch?v=--3SH5_r-BU,31.0 to 36.0,N/A,N/A
+speech,speech,315.0 to 320.0,https://www.youtube.com/watch?v=--3T7dwFLjU,31.0 to 36.0,N/A,N/A
+speech,speech,320.0 to 325.0,https://www.youtube.com/watch?v=--3mqI-rLFQ,31.0 to 36.0,N/A,N/A
+speech,speech,325.0 to 330.0,https://www.youtube.com/watch?v=--44ksVCX4g,131.0 to 136.0,N/A,N/A
+speech,speech,330.0 to 335.0,https://www.youtube.com/watch?v=--4AZakCudI,31.0 to 36.0,N/A,N/A
+speech,speech,335.0 to 340.0,https://www.youtube.com/watch?v=--4CM0LIKBA,31.0 to 36.0,N/A,N/A
+speech,speech,340.0 to 345.0,https://www.youtube.com/watch?v=--4G-oot8ww,31.0 to 36.0,N/A,N/A
+speech,speech,345.0 to 350.0,https://www.youtube.com/watch?v=--4L-eLH27c,31.0 to 36.0,N/A,N/A
+speech,speech,350.0 to 355.0,https://www.youtube.com/watch?v=--4QdQLdWuQ,20.0 to 25.0,N/A,N/A
+speech,speech,355.0 to 360.0,https://www.youtube.com/watch?v=--4XCYPABls,31.0 to 36.0,N/A,N/A
+water,water,360.0 to 365.0,https://www.youtube.com/watch?v=--OBFOUWZi0,91.0 to 96.0,N/A,N/A
+water,water,365.0 to 370.0,https://www.youtube.com/watch?v=-2T-couEK1Y,91.0 to 96.0,N/A,N/A
+water,water,370.0 to 375.0,https://www.youtube.com/watch?v=-2UelknZGow,7.0 to 12.0,N/A,N/A
+water,water,375.0 to 380.0,https://www.youtube.com/watch?v=-5AkgPTVovM,31.0 to 36.0,N/A,N/A
+water,water,380.0 to 385.0,https://www.youtube.com/watch?v=-77FQmCQ53k,11.0 to 16.0,N/A,N/A
+water,water,385.0 to 390.0,https://www.youtube.com/watch?v=-AJxrQVrimU,1.0 to 6.0,N/A,N/A
+water,water,390.0 to 395.0,https://www.youtube.com/watch?v=-D4a8YW74-g,31.0 to 36.0,N/A,N/A
+water,water,395.0 to 400.0,https://www.youtube.com/watch?v=-EpyTyxKg8U,81.0 to 86.0,N/A,N/A
+water,water,400.0 to 405.0,https://www.youtube.com/watch?v=-FxGXm-D2QM,31.0 to 36.0,N/A,N/A
+water,water,405.0 to 410.0,https://www.youtube.com/watch?v=-GtdmI1Tqnw,31.0 to 36.0,N/A,N/A
+water,water,410.0 to 415.0,https://www.youtube.com/watch?v=-LmmObHeT0A,31.0 to 36.0,N/A,N/A
+water,water,415.0 to 420.0,https://www.youtube.com/watch?v=-NLmGSskSYk,11.0 to 16.0,N/A,N/A
+water,water,420.0 to 425.0,https://www.youtube.com/watch?v=-NknsEwftDk,31.0 to 36.0,N/A,N/A
+water,water,425.0 to 430.0,https://www.youtube.com/watch?v=-OcKia5tJ0g,14.0 to 19.0,N/A,N/A
+water,water,430.0 to 435.0,https://www.youtube.com/watch?v=-PHtCCUN_a0,31.0 to 36.0,N/A,N/A
+water,water,435.0 to 440.0,https://www.youtube.com/watch?v=-Qunm9_q7Dk,31.0 to 36.0,N/A,N/A
+water,water,440.0 to 445.0,https://www.youtube.com/watch?v=-SLeq4CoIg8,181.0 to 186.0,N/A,N/A
+water,water,445.0 to 450.0,https://www.youtube.com/watch?v=-UNUYf9Y-4Q,31.0 to 36.0,N/A,N/A
+water,water,450.0 to 455.0,https://www.youtube.com/watch?v=-UdzibtuaKk,11.0 to 16.0,N/A,N/A
+water,water,455.0 to 460.0,https://www.youtube.com/watch?v=-UsXa6F-ZlM,391.0 to 396.0,N/A,N/A
+water,water,460.0 to 465.0,https://www.youtube.com/watch?v=-X8hzDxUzsU,111.0 to 116.0,N/A,N/A
+water,water,465.0 to 470.0,https://www.youtube.com/watch?v=-aB3kYZ_B9U,251.0 to 256.0,N/A,N/A
+water,water,470.0 to 475.0,https://www.youtube.com/watch?v=-bf4LMAt-Tg,13.0 to 18.0,N/A,N/A
+water,water,475.0 to 480.0,https://www.youtube.com/watch?v=-fYn52JCV9g,171.0 to 176.0,N/A,N/A
+fire_alarm,fire alarm,480.0 to 485.0,https://www.youtube.com/watch?v=-M88hG5X8fQ,11.0 to 16.0,N/A,N/A
+fire_alarm,fire alarm,485.0 to 490.0,https://www.youtube.com/watch?v=0BEtPXdDQrs,251.0 to 256.0,N/A,N/A
+fire_alarm,fire alarm,490.0 to 495.0,https://www.youtube.com/watch?v=0QJDqCcTDD4,101.0 to 106.0,N/A,N/A
+fire_alarm,fire alarm,495.0 to 500.0,https://www.youtube.com/watch?v=1qku5sNlbhQ,71.0 to 76.0,N/A,N/A
+fire_alarm,fire alarm,500.0 to 505.0,https://www.youtube.com/watch?v=25aBtgCxEug,441.0 to 446.0,N/A,N/A
+fire_alarm,fire alarm,505.0 to 510.0,https://www.youtube.com/watch?v=3ComHEFnxpQ,1.0 to 6.0,N/A,N/A
+fire_alarm,fire alarm,510.0 to 515.0,https://www.youtube.com/watch?v=3ISCUTeusjE,71.0 to 76.0,N/A,N/A
+fire_alarm,fire alarm,515.0 to 520.0,https://www.youtube.com/watch?v=3KnomsL4BnA,131.0 to 136.0,N/A,N/A
+fire_alarm,fire alarm,520.0 to 525.0,https://www.youtube.com/watch?v=3Q7NQ2ddnv4,21.0 to 26.0,N/A,N/A
+fire_alarm,fire alarm,525.0 to 530.0,https://www.youtube.com/watch?v=3YxzXprgiA0,23.0 to 28.0,N/A,N/A
+fire_alarm,fire alarm,530.0 to 535.0,https://www.youtube.com/watch?v=3ZrCn3Pujmo,1.0 to 6.0,N/A,N/A
+fire_alarm,fire alarm,535.0 to 540.0,https://www.youtube.com/watch?v=3qcV4fTEeb4,301.0 to 306.0,N/A,N/A
+fire_alarm,fire alarm,540.0 to 545.0,https://www.youtube.com/watch?v=3rky5IrE0L8,91.0 to 96.0,N/A,N/A
+fire_alarm,fire alarm,545.0 to 550.0,https://www.youtube.com/watch?v=3vY9TXRwM_c,181.0 to 186.0,N/A,N/A
+fire_alarm,fire alarm,550.0 to 555.0,https://www.youtube.com/watch?v=4dXcz9B3sV8,11.0 to 16.0,N/A,N/A
+fire_alarm,fire alarm,555.0 to 560.0,https://www.youtube.com/watch?v=4iYEmP6r4J8,31.0 to 36.0,N/A,N/A
+fire_alarm,fire alarm,560.0 to 565.0,https://www.youtube.com/watch?v=4qlHf8VEJFE,111.0 to 116.0,N/A,N/A
+fire_alarm,fire alarm,565.0 to 570.0,https://www.youtube.com/watch?v=5DNmaYCRFGc,181.0 to 186.0,N/A,N/A
+fire_alarm,fire alarm,570.0 to 575.0,https://www.youtube.com/watch?v=5GFWog3rkOo,191.0 to 196.0,N/A,N/A
+fire_alarm,fire alarm,575.0 to 580.0,https://www.youtube.com/watch?v=5HJ2NutXPfI,11.0 to 16.0,N/A,N/A
+fire_alarm,fire alarm,580.0 to 585.0,https://www.youtube.com/watch?v=5QMVOaxcVmI,121.0 to 126.0,N/A,N/A
+fire_alarm,fire alarm,585.0 to 590.0,https://www.youtube.com/watch?v=660AJ1w2pJ8,31.0 to 36.0,N/A,N/A
+fire_alarm,fire alarm,590.0 to 595.0,https://www.youtube.com/watch?v=6WVCDuA2BeE,181.0 to 186.0,N/A,N/A
+fire_alarm,fire alarm,595.0 to 600.0,https://www.youtube.com/watch?v=87LFO6J31iM,31.0 to 36.0,N/A,N/A
+television,television;speech,600.0 to 605.0,https://www.youtube.com/watch?v=-0F3UWMRsXg,31.0 to 36.0,N/A,N/A
+television,music;television,605.0 to 610.0,https://www.youtube.com/watch?v=-0HCoFwA-ZM,17.0 to 22.0,N/A,N/A
+television,music;television;speech,610.0 to 615.0,https://www.youtube.com/watch?v=-0HIY5GQ7qs,1.0 to 6.0,N/A,N/A
+television,music;television,615.0 to 620.0,https://www.youtube.com/watch?v=-0SUfJHqSyY,1.0 to 6.0,N/A,N/A
+television,music;television,620.0 to 625.0,https://www.youtube.com/watch?v=-0SbLD6Du_o,1.0 to 6.0,N/A,N/A
+television,music;television,625.0 to 630.0,https://www.youtube.com/watch?v=-0bNVGSAVNs,31.0 to 36.0,N/A,N/A
+television,music;television,630.0 to 635.0,https://www.youtube.com/watch?v=-1530mrueEY,13.0 to 18.0,N/A,N/A
+television,television;speech,635.0 to 640.0,https://www.youtube.com/watch?v=-25qfL4m9go,31.0 to 36.0,N/A,N/A
+television,music;television,640.0 to 645.0,https://www.youtube.com/watch?v=-2HxeODYXu4,121.0 to 126.0,N/A,N/A
+television,music;television;speech,645.0 to 650.0,https://www.youtube.com/watch?v=-2gDc8ENQw8,22.0 to 27.0,N/A,N/A
+television,music;television,650.0 to 655.0,https://www.youtube.com/watch?v=-2hDoZ4yUy0,31.0 to 36.0,N/A,N/A
+television,music;television,655.0 to 660.0,https://www.youtube.com/watch?v=-2hND1B8VOU,31.0 to 36.0,N/A,N/A
+television,music;television,660.0 to 665.0,https://www.youtube.com/watch?v=-3fZboxjMLc,1.0 to 3.0,N/A,N/A
+television,television,665.0 to 670.0,https://www.youtube.com/watch?v=-4kna0BxXkU,1.0 to 4.0,N/A,N/A
+television,television,670.0 to 675.0,https://www.youtube.com/watch?v=-521k7QnrSk,71.0 to 76.0,N/A,N/A
+television,music;television;speech,675.0 to 680.0,https://www.youtube.com/watch?v=-52FrZ0RN5M,10.0 to 15.0,N/A,N/A
+television,television;speech,680.0 to 685.0,https://www.youtube.com/watch?v=-57pV9HAz2E,31.0 to 36.0,N/A,N/A
+television,television;speech,685.0 to 690.0,https://www.youtube.com/watch?v=-5R0bjd4W1c,31.0 to 36.0,N/A,N/A
+television,music;television,690.0 to 695.0,https://www.youtube.com/watch?v=-6f_a3I8jmg,1.0 to 6.0,N/A,N/A
+television,music;television;speech,695.0 to 700.0,https://www.youtube.com/watch?v=-7icXiw3oWg,1.0 to 6.0,N/A,N/A
+television,television;speech,700.0 to 705.0,https://www.youtube.com/watch?v=-7u3faUt80k,31.0 to 36.0,N/A,N/A
+television,music;television;speech,705.0 to 710.0,https://www.youtube.com/watch?v=-84v6f6JkJE,23.0 to 28.0,N/A,N/A
+television,music;television,710.0 to 715.0,https://www.youtube.com/watch?v=-8Rn68h3JTs,2.0 to 7.0,N/A,N/A
+television,music;television,715.0 to 720.0,https://www.youtube.com/watch?v=-9LUlDlBcgw,1.0 to 4.0,N/A,N/A
+animal,animal,720.0 to 725.0,https://www.youtube.com/watch?v=--PmxBKSsvE,261.0 to 266.0,N/A,N/A
+animal,animal,725.0 to 730.0,https://www.youtube.com/watch?v=-2v57hTcfKM,1.0 to 6.0,N/A,N/A
+animal,animal,730.0 to 735.0,https://www.youtube.com/watch?v=-39RnBGle_o,31.0 to 36.0,N/A,N/A
+animal,animal,735.0 to 740.0,https://www.youtube.com/watch?v=-3N7iSi9Ifk,231.0 to 236.0,N/A,N/A
+animal,animal,740.0 to 745.0,https://www.youtube.com/watch?v=-4neKvO2yOo,31.0 to 36.0,N/A,N/A
+animal,animal,745.0 to 750.0,https://www.youtube.com/watch?v=-4v7E7WNQ5U,141.0 to 146.0,N/A,N/A
+animal,animal,750.0 to 755.0,https://www.youtube.com/watch?v=-6veqTg_HR0,31.0 to 36.0,N/A,N/A
+animal,animal,755.0 to 760.0,https://www.youtube.com/watch?v=-7DFl-B62DQ,31.0 to 36.0,N/A,N/A
+animal,animal,760.0 to 765.0,https://www.youtube.com/watch?v=-7xpZPHWdlk,31.0 to 36.0,N/A,N/A
+animal,dog;animal,765.0 to 770.0,https://www.youtube.com/watch?v=-8EPfCUsaJI,31.0 to 36.0,N/A,N/A
+animal,animal,770.0 to 775.0,https://www.youtube.com/watch?v=-Aznl8jNPak,31.0 to 36.0,N/A,N/A
+animal,animal,775.0 to 780.0,https://www.youtube.com/watch?v=-CirKYqIfgI,31.0 to 36.0,N/A,N/A
+animal,animal,780.0 to 785.0,https://www.youtube.com/watch?v=-DSW2l7s_Ws,551.0 to 556.0,N/A,N/A
+animal,animal,785.0 to 790.0,https://www.youtube.com/watch?v=-EIjhV35-RI,31.0 to 36.0,N/A,N/A
+animal,animal,790.0 to 795.0,https://www.youtube.com/watch?v=-F6O4DmjK6w,31.0 to 36.0,N/A,N/A
+animal,animal,795.0 to 800.0,https://www.youtube.com/watch?v=-FZ6WZTRDCg,1.0 to 6.0,N/A,N/A
+animal,animal,800.0 to 805.0,https://www.youtube.com/watch?v=-JlpMlZdI8w,31.0 to 36.0,N/A,N/A
+animal,animal,805.0 to 810.0,https://www.youtube.com/watch?v=-Kg6F8E0B24,1.0 to 5.0,N/A,N/A
+animal,animal,810.0 to 815.0,https://www.youtube.com/watch?v=-M3Qr0wN8HA,6.0 to 11.0,N/A,N/A
+animal,animal,815.0 to 820.0,https://www.youtube.com/watch?v=-N175oUcKMM,121.0 to 126.0,N/A,N/A
+animal,animal,820.0 to 825.0,https://www.youtube.com/watch?v=-N8YtcUJZX8,21.0 to 26.0,N/A,N/A
+animal,animal,825.0 to 830.0,https://www.youtube.com/watch?v=-Np6I-FukMI,13.0 to 18.0,N/A,N/A
+animal,animal,830.0 to 835.0,https://www.youtube.com/watch?v=-O4DeGjVjEI,31.0 to 36.0,N/A,N/A
+animal,animal,835.0 to 840.0,https://www.youtube.com/watch?v=-PDXNGVgrIA,28.0 to 33.0,N/A,N/A
+tick_tock,tick-tock,840.0 to 845.0,https://www.youtube.com/watch?v=--V9KO_QLxk,31.0 to 36.0,N/A,N/A
+tick_tock,tick-tock,845.0 to 850.0,https://www.youtube.com/watch?v=-1YwpJxxfNU,31.0 to 36.0,N/A,N/A
+tick_tock,tick-tock,850.0 to 855.0,https://www.youtube.com/watch?v=-2qHGzHjUOU,31.0 to 36.0,N/A,N/A
+tick_tock,tick-tock,855.0 to 860.0,https://www.youtube.com/watch?v=-58aDBFMO_Q,12.0 to 17.0,N/A,N/A
+tick_tock,tick-tock,860.0 to 865.0,https://www.youtube.com/watch?v=-EsKQANaKY0,31.0 to 36.0,N/A,N/A
+tick_tock,tick-tock,865.0 to 870.0,https://www.youtube.com/watch?v=-FOGKrV3PDk,27.0 to 32.0,N/A,N/A
+tick_tock,tick-tock,870.0 to 875.0,https://www.youtube.com/watch?v=-HY1zPlo3n4,31.0 to 36.0,N/A,N/A
+tick_tock,tick-tock,875.0 to 880.0,https://www.youtube.com/watch?v=-RRKTvEEWls,31.0 to 36.0,N/A,N/A
+tick_tock,tick-tock,880.0 to 885.0,https://www.youtube.com/watch?v=-WhaH08Lydk,31.0 to 36.0,N/A,N/A
+tick_tock,tick-tock,885.0 to 890.0,https://www.youtube.com/watch?v=-ia-mQ-J_xA,331.0 to 336.0,N/A,N/A
+tick_tock,tick-tock,890.0 to 895.0,https://www.youtube.com/watch?v=-tHgnYo7IwY,31.0 to 36.0,N/A,N/A
+tick_tock,tick-tock,895.0 to 900.0,https://www.youtube.com/watch?v=-vI2rbewpII,31.0 to 36.0,N/A,N/A
+tick_tock,tick-tock,900.0 to 905.0,https://www.youtube.com/watch?v=0EfQBWn4qK0,31.0 to 36.0,N/A,N/A
+tick_tock,tick-tock,905.0 to 910.0,https://www.youtube.com/watch?v=0FLTU21nzto,18.0 to 23.0,N/A,N/A
+tick_tock,tick-tock,910.0 to 915.0,https://www.youtube.com/watch?v=0LYzf6jDXjk,18.0 to 23.0,N/A,N/A
+tick_tock,tick-tock,915.0 to 920.0,https://www.youtube.com/watch?v=0Lg93i7QfA4,31.0 to 36.0,N/A,N/A
+tick_tock,tick-tock,920.0 to 925.0,https://www.youtube.com/watch?v=0RShTt7XkTo,31.0 to 36.0,N/A,N/A
+tick_tock,tick-tock,925.0 to 930.0,https://www.youtube.com/watch?v=0TpGvKbWl5c,31.0 to 36.0,N/A,N/A
+tick_tock,tick-tock,930.0 to 935.0,https://www.youtube.com/watch?v=0V6m2l_E5rw,31.0 to 36.0,N/A,N/A
+tick_tock,tick-tock,935.0 to 940.0,https://www.youtube.com/watch?v=0ZMiXcKZjLw,1.0 to 6.0,N/A,N/A
+tick_tock,tick-tock,940.0 to 945.0,https://www.youtube.com/watch?v=0ZRp7XYpfcc,23.0 to 28.0,N/A,N/A
+tick_tock,tick-tock,945.0 to 950.0,https://www.youtube.com/watch?v=0_Bv0a5-_lE,31.0 to 36.0,N/A,N/A
+tick_tock,tick-tock,950.0 to 955.0,https://www.youtube.com/watch?v=0gFMr6JXl_w,1.0 to 6.0,N/A,N/A
+tick_tock,tick-tock,955.0 to 960.0,https://www.youtube.com/watch?v=0h0qWV96d9I,31.0 to 36.0,N/A,N/A
+drawer_open_or_close,drawer open or close,960.0 to 965.0,https://www.youtube.com/watch?v=-FakAjtg2uk,26.0 to 31.0,N/A,N/A
+drawer_open_or_close,drawer open or close,965.0 to 970.0,https://www.youtube.com/watch?v=-S4KxMmj_SI,221.0 to 226.0,N/A,N/A
+drawer_open_or_close,drawer open or close,970.0 to 975.0,https://www.youtube.com/watch?v=0ljrgCrawsg,241.0 to 246.0,N/A,N/A
+drawer_open_or_close,drawer open or close,975.0 to 980.0,https://www.youtube.com/watch?v=0t1hN67OU7M,131.0 to 136.0,N/A,N/A
+drawer_open_or_close,drawer open or close,980.0 to 985.0,https://www.youtube.com/watch?v=1slmvQmNJ-Y,31.0 to 36.0,N/A,N/A
+drawer_open_or_close,drawer open or close,985.0 to 990.0,https://www.youtube.com/watch?v=4MX8Z4ZxjiQ,21.0 to 26.0,N/A,N/A
+drawer_open_or_close,drawer open or close,990.0 to 995.0,https://www.youtube.com/watch?v=4jJBRLJLwbY,171.0 to 176.0,N/A,N/A
+drawer_open_or_close,drawer open or close,995.0 to 1000.0,https://www.youtube.com/watch?v=4yn2Bpag12o,181.0 to 186.0,N/A,N/A
+drawer_open_or_close,drawer open or close,1000.0 to 1005.0,https://www.youtube.com/watch?v=5EggSP0FL3Y,191.0 to 196.0,N/A,N/A
+drawer_open_or_close,drawer open or close,1005.0 to 1010.0,https://www.youtube.com/watch?v=7TwvU6UEh-w,111.0 to 116.0,N/A,N/A
+drawer_open_or_close,drawer open or close,1010.0 to 1015.0,https://www.youtube.com/watch?v=8f6KWwG8lEs,31.0 to 36.0,N/A,N/A
+drawer_open_or_close,drawer open or close,1015.0 to 1020.0,https://www.youtube.com/watch?v=92SpwzFWhXk,511.0 to 516.0,N/A,N/A
+drawer_open_or_close,drawer open or close,1020.0 to 1025.0,https://www.youtube.com/watch?v=C8mXWBmjUEk,241.0 to 246.0,N/A,N/A
+drawer_open_or_close,drawer open or close,1025.0 to 1030.0,https://www.youtube.com/watch?v=ERtge0S7adY,591.0 to 596.0,N/A,N/A
+drawer_open_or_close,drawer open or close,1030.0 to 1035.0,https://www.youtube.com/watch?v=GXN8in-WRGw,31.0 to 36.0,N/A,N/A
+drawer_open_or_close,drawer open or close,1035.0 to 1040.0,https://www.youtube.com/watch?v=IUgfBal4v1U,191.0 to 196.0,N/A,N/A
+drawer_open_or_close,drawer open or close,1040.0 to 1045.0,https://www.youtube.com/watch?v=Ns3yESed4Pg,27.0 to 32.0,N/A,N/A
+drawer_open_or_close,drawer open or close,1045.0 to 1050.0,https://www.youtube.com/watch?v=Qk6eVp7ot1A,141.0 to 146.0,N/A,N/A
+drawer_open_or_close,drawer open or close,1050.0 to 1055.0,https://www.youtube.com/watch?v=SMjUdE9YXXU,1.0 to 6.0,N/A,N/A
+drawer_open_or_close,drawer open or close,1055.0 to 1060.0,https://www.youtube.com/watch?v=SfpljFYdUb4,1.0 to 6.0,N/A,N/A
+drawer_open_or_close,drawer open or close,1060.0 to 1065.0,https://www.youtube.com/watch?v=Syxz05Q7Irc,131.0 to 136.0,N/A,N/A
+drawer_open_or_close,drawer open or close,1065.0 to 1070.0,https://www.youtube.com/watch?v=V2P0ev4j568,1.0 to 6.0,N/A,N/A
+drawer_open_or_close,drawer open or close,1070.0 to 1075.0,https://www.youtube.com/watch?v=WokleeCWvA4,1.0 to 6.0,N/A,N/A
+drawer_open_or_close,drawer open or close,1075.0 to 1080.0,https://www.youtube.com/watch?v=Y71YAfb0Q74,1.0 to 6.0,N/A,N/A
+writing,writing,1080.0 to 1085.0,https://www.youtube.com/watch?v=--GY4nqPqOI,31.0 to 36.0,N/A,N/A
+writing,writing,1085.0 to 1090.0,https://www.youtube.com/watch?v=-JY5-aQ9iAA,131.0 to 136.0,N/A,N/A
+writing,writing,1090.0 to 1095.0,https://www.youtube.com/watch?v=-Jj2dA1dCSE,31.0 to 36.0,N/A,N/A
+writing,writing,1095.0 to 1100.0,https://www.youtube.com/watch?v=-KAgX7jo4Ik,241.0 to 246.0,N/A,N/A
+writing,writing,1100.0 to 1105.0,https://www.youtube.com/watch?v=-lZzpIjxLlo,51.0 to 56.0,N/A,N/A
+writing,writing,1105.0 to 1110.0,https://www.youtube.com/watch?v=07zpIRXlnZE,1.0 to 6.0,N/A,N/A
+writing,writing,1110.0 to 1115.0,https://www.youtube.com/watch?v=0_U5hcRDSiI,31.0 to 36.0,N/A,N/A
+writing,writing,1115.0 to 1120.0,https://www.youtube.com/watch?v=0qK3bOBHA6Q,421.0 to 426.0,N/A,N/A
+writing,writing,1120.0 to 1125.0,https://www.youtube.com/watch?v=1eEVALiz5Uc,91.0 to 96.0,N/A,N/A
+writing,writing,1125.0 to 1130.0,https://www.youtube.com/watch?v=2cEzgnBMD1A,551.0 to 556.0,N/A,N/A
+writing,writing,1130.0 to 1135.0,https://www.youtube.com/watch?v=2ljlW2IAPp0,321.0 to 326.0,N/A,N/A
+writing,writing,1135.0 to 1140.0,https://www.youtube.com/watch?v=2zW6PH5zT-U,561.0 to 566.0,N/A,N/A
+writing,writing,1140.0 to 1145.0,https://www.youtube.com/watch?v=3N_A18OmiPw,11.0 to 16.0,N/A,N/A
+writing,writing,1145.0 to 1150.0,https://www.youtube.com/watch?v=3aoyA3EbO2E,481.0 to 486.0,N/A,N/A
+writing,writing,1150.0 to 1155.0,https://www.youtube.com/watch?v=3mtG_8ulklA,381.0 to 386.0,N/A,N/A
+writing,writing,1155.0 to 1160.0,https://www.youtube.com/watch?v=3poK5NpbB48,31.0 to 36.0,N/A,N/A
+writing,writing,1160.0 to 1165.0,https://www.youtube.com/watch?v=46S1cxcUZ3g,31.0 to 36.0,N/A,N/A
+writing,writing,1165.0 to 1170.0,https://www.youtube.com/watch?v=46h5Ahbm_C4,211.0 to 216.0,N/A,N/A
+writing,writing,1170.0 to 1175.0,https://www.youtube.com/watch?v=4R-eNcoMLTI,31.0 to 36.0,N/A,N/A
+writing,writing,1175.0 to 1180.0,https://www.youtube.com/watch?v=4XiTzWqeJMk,31.0 to 36.0,N/A,N/A
+writing,writing,1180.0 to 1185.0,https://www.youtube.com/watch?v=4_TpKGv0gyY,1.0 to 6.0,N/A,N/A
+writing,writing,1185.0 to 1190.0,https://www.youtube.com/watch?v=4elymI0eAKk,571.0 to 576.0,N/A,N/A
+writing,writing,1190.0 to 1195.0,https://www.youtube.com/watch?v=557ubI90l90,101.0 to 106.0,N/A,N/A
+writing,writing,1195.0 to 1200.0,https://www.youtube.com/watch?v=5qTZDnQi7kA,31.0 to 36.0,N/A,N/A
+vehicle,vehicle,1200.0 to 1205.0,https://www.youtube.com/watch?v=--0XKTm28ts,51.0 to 56.0,N/A,N/A
+vehicle,vehicle,1205.0 to 1210.0,https://www.youtube.com/watch?v=--6aF5STVP8,31.0 to 36.0,N/A,N/A
+vehicle,vehicle,1210.0 to 1215.0,https://www.youtube.com/watch?v=--D3mJ0wwrg,11.0 to 16.0,N/A,N/A
+vehicle,vehicle,1215.0 to 1220.0,https://www.youtube.com/watch?v=--PDHCD2XDw,31.0 to 36.0,N/A,N/A
+vehicle,vehicle,1220.0 to 1225.0,https://www.youtube.com/watch?v=--UO9BIS-R0,31.0 to 36.0,N/A,N/A
+vehicle,vehicle,1225.0 to 1230.0,https://www.youtube.com/watch?v=--Xn_Zfv9sQ,30.0 to 35.0,N/A,N/A
+vehicle,vehicle,1230.0 to 1235.0,https://www.youtube.com/watch?v=-0FmHb06X-s,31.0 to 36.0,N/A,N/A
+vehicle,vehicle,1235.0 to 1240.0,https://www.youtube.com/watch?v=-0JYEEzlT-8,31.0 to 36.0,N/A,N/A
+vehicle,vehicle,1240.0 to 1245.0,https://www.youtube.com/watch?v=-0QQZdhcQt0,31.0 to 36.0,N/A,N/A
+vehicle,vehicle,1245.0 to 1250.0,https://www.youtube.com/watch?v=-0dmPgqorkk,31.0 to 36.0,N/A,N/A
+vehicle,vehicle,1250.0 to 1255.0,https://www.youtube.com/watch?v=-0m6wSBNS_g,71.0 to 76.0,N/A,N/A
+vehicle,vehicle,1255.0 to 1260.0,https://www.youtube.com/watch?v=-18nX6HO5QU,41.0 to 46.0,N/A,N/A
+vehicle,vehicle,1260.0 to 1265.0,https://www.youtube.com/watch?v=-1FLdap8zzI,31.0 to 36.0,N/A,N/A
+vehicle,vehicle,1265.0 to 1270.0,https://www.youtube.com/watch?v=-1PXXuFCtF0,31.0 to 36.0,N/A,N/A
+vehicle,vehicle,1270.0 to 1275.0,https://www.youtube.com/watch?v=-1j17BOI8eM,31.0 to 36.0,N/A,N/A
+vehicle,vehicle,1275.0 to 1280.0,https://www.youtube.com/watch?v=-1nnL5IbY9U,31.0 to 36.0,N/A,N/A
+vehicle,vehicle,1280.0 to 1285.0,https://www.youtube.com/watch?v=-2Dn1lJPhYY,31.0 to 36.0,N/A,N/A
+vehicle,vehicle,1285.0 to 1290.0,https://www.youtube.com/watch?v=-2J2tTo6WQs,301.0 to 306.0,N/A,N/A
+vehicle,vehicle,1290.0 to 1295.0,https://www.youtube.com/watch?v=-2bHggyjwGc,31.0 to 36.0,N/A,N/A
+vehicle,vehicle,1295.0 to 1300.0,https://www.youtube.com/watch?v=-2vWzZPmHYI,31.0 to 36.0,N/A,N/A
+vehicle,vehicle,1300.0 to 1305.0,https://www.youtube.com/watch?v=-3-Zisupbeo,31.0 to 36.0,N/A,N/A
+vehicle,vehicle,1305.0 to 1310.0,https://www.youtube.com/watch?v=-3KtNOqHb2A,31.0 to 36.0,N/A,N/A
+vehicle,vehicle,1310.0 to 1315.0,https://www.youtube.com/watch?v=-3W7aoSLg8M,31.0 to 36.0,N/A,N/A
+vehicle,vehicle,1315.0 to 1320.0,https://www.youtube.com/watch?v=-3_3fqA600E,5.0 to 10.0,N/A,N/A
+door,door,1320.0 to 1325.0,https://www.youtube.com/watch?v=-2kJxd9ZW9g,13.0 to 18.0,N/A,N/A
+door,door,1325.0 to 1330.0,https://www.youtube.com/watch?v=-43v51oAu6I,2.0 to 7.0,N/A,N/A
+door,door,1330.0 to 1335.0,https://www.youtube.com/watch?v=-9TZ-Wx33_A,31.0 to 36.0,N/A,N/A
+door,door,1335.0 to 1340.0,https://www.youtube.com/watch?v=-AWZTvUrw1o,101.0 to 106.0,N/A,N/A
+door,door,1340.0 to 1345.0,https://www.youtube.com/watch?v=-C0Tx3VJB7M,31.0 to 36.0,N/A,N/A
+door,door,1345.0 to 1350.0,https://www.youtube.com/watch?v=-EM73hFsBTk,31.0 to 36.0,N/A,N/A
+door,door,1350.0 to 1355.0,https://www.youtube.com/watch?v=-G8t8dMrZ4M,1.0 to 6.0,N/A,N/A
+door,door,1355.0 to 1360.0,https://www.youtube.com/watch?v=-GMc2WZqCOQ,12.0 to 17.0,N/A,N/A
+door,door,1360.0 to 1365.0,https://www.youtube.com/watch?v=-Kzza7idn94,181.0 to 186.0,N/A,N/A
+door,door,1365.0 to 1370.0,https://www.youtube.com/watch?v=-MHcSTmWNq8,1.0 to 6.0,N/A,N/A
+door,door,1370.0 to 1375.0,https://www.youtube.com/watch?v=-N2C9l8w3NQ,231.0 to 236.0,N/A,N/A
+door,door,1375.0 to 1380.0,https://www.youtube.com/watch?v=-Yghfuqj-6k,441.0 to 446.0,N/A,N/A
+door,door,1380.0 to 1385.0,https://www.youtube.com/watch?v=-_PsJYVRMoQ,31.0 to 36.0,N/A,N/A
+door,door,1385.0 to 1390.0,https://www.youtube.com/watch?v=-_qn_Hlqhjo,31.0 to 36.0,N/A,N/A
+door,door,1390.0 to 1395.0,https://www.youtube.com/watch?v=-aTSKztGz_k,31.0 to 36.0,N/A,N/A
+door,door,1395.0 to 1400.0,https://www.youtube.com/watch?v=-ywydpvXI5g,18.0 to 23.0,N/A,N/A
+door,door,1400.0 to 1405.0,https://www.youtube.com/watch?v=0-Xc6oWa9hs,10.0 to 15.0,N/A,N/A
+door,door,1405.0 to 1410.0,https://www.youtube.com/watch?v=037VysW-MUM,31.0 to 36.0,N/A,N/A
+door,door,1410.0 to 1415.0,https://www.youtube.com/watch?v=03A_m507LjM,1.0 to 4.0,N/A,N/A
+door,door,1415.0 to 1420.0,https://www.youtube.com/watch?v=07krQ661fok,1.0 to 6.0,N/A,N/A
+door,door,1420.0 to 1425.0,https://www.youtube.com/watch?v=0Em3FVQMfcE,3.0 to 8.0,N/A,N/A
+door,door,1425.0 to 1430.0,https://www.youtube.com/watch?v=0Gl7_MoPvJM,31.0 to 36.0,N/A,N/A
+door,door,1430.0 to 1435.0,https://www.youtube.com/watch?v=0QhVfzoK7CQ,31.0 to 36.0,N/A,N/A
+door,door,1435.0 to 1440.0,https://www.youtube.com/watch?v=0R2xg1ZQRCo,10.0 to 15.0,N/A,N/A
+rail_transport,rail transport,1440.0 to 1445.0,https://www.youtube.com/watch?v=0GCKlf0CYqo,31.0 to 36.0,N/A,N/A
+rail_transport,rail transport,1445.0 to 1450.0,https://www.youtube.com/watch?v=16c6NcNte5g,21.0 to 26.0,N/A,N/A
+rail_transport,rail transport,1450.0 to 1455.0,https://www.youtube.com/watch?v=2-CpIlLNIyg,31.0 to 36.0,N/A,N/A
+rail_transport,rail transport,1455.0 to 1460.0,https://www.youtube.com/watch?v=3lY0mff-lxQ,21.0 to 26.0,N/A,N/A
+dishes_pots_and_pans,"dishes, pots, and pans",1460.0 to 1465.0,https://www.youtube.com/watch?v=-CdmSTz01D8,21.0 to 26.0,N/A,N/A
+dishes_pots_and_pans,"dishes, pots, and pans",1465.0 to 1470.0,https://www.youtube.com/watch?v=-WEfNbZO_LE,131.0 to 136.0,N/A,N/A
+dishes_pots_and_pans,"dishes, pots, and pans",1470.0 to 1475.0,https://www.youtube.com/watch?v=-YLpD1UW8qU,1.0 to 6.0,N/A,N/A
+dishes_pots_and_pans,"dishes, pots, and pans",1475.0 to 1480.0,https://www.youtube.com/watch?v=-ZSlJlyqAEU,541.0 to 546.0,N/A,N/A
+dishes_pots_and_pans,"dishes, pots, and pans",1480.0 to 1485.0,https://www.youtube.com/watch?v=-ilWwQqJAjc,31.0 to 36.0,N/A,N/A
+dishes_pots_and_pans,"dishes, pots, and pans",1485.0 to 1490.0,https://www.youtube.com/watch?v=-sMzJwM0Nno,291.0 to 296.0,N/A,N/A
+dishes_pots_and_pans,"dishes, pots, and pans",1490.0 to 1495.0,https://www.youtube.com/watch?v=09ynjYrhY88,21.0 to 26.0,N/A,N/A
+dishes_pots_and_pans,"dishes, pots, and pans",1495.0 to 1500.0,https://www.youtube.com/watch?v=0BtHd6dvm78,25.0 to 30.0,N/A,N/A
+dishes_pots_and_pans,"dishes, pots, and pans",1500.0 to 1505.0,https://www.youtube.com/watch?v=0DoOpd6I_Rc,251.0 to 256.0,N/A,N/A
+dishes_pots_and_pans,"dishes, pots, and pans",1505.0 to 1510.0,https://www.youtube.com/watch?v=0HegGLi6x24,51.0 to 56.0,N/A,N/A
+dishes_pots_and_pans,"dishes, pots, and pans",1510.0 to 1515.0,https://www.youtube.com/watch?v=0k2E5lEp1s8,341.0 to 346.0,N/A,N/A
+dishes_pots_and_pans,"dishes, pots, and pans",1515.0 to 1520.0,https://www.youtube.com/watch?v=0vDKBUVHMnc,271.0 to 276.0,N/A,N/A
+dishes_pots_and_pans,"dishes, pots, and pans",1520.0 to 1525.0,https://www.youtube.com/watch?v=1AbCQJ3xg8g,51.0 to 56.0,N/A,N/A
+dishes_pots_and_pans,"dishes, pots, and pans",1525.0 to 1530.0,https://www.youtube.com/watch?v=1FiVE0dGo5M,151.0 to 156.0,N/A,N/A
+dishes_pots_and_pans,"dishes, pots, and pans",1530.0 to 1535.0,https://www.youtube.com/watch?v=1NbotQwFUTg,31.0 to 36.0,N/A,N/A
+dishes_pots_and_pans,"dishes, pots, and pans",1535.0 to 1540.0,https://www.youtube.com/watch?v=1Ulak3dMnGU,19.0 to 24.0,N/A,N/A
+dishes_pots_and_pans,"dishes, pots, and pans",1540.0 to 1545.0,https://www.youtube.com/watch?v=1jJHRyBmDqE,121.0 to 126.0,N/A,N/A
+dishes_pots_and_pans,"dishes, pots, and pans",1545.0 to 1550.0,https://www.youtube.com/watch?v=1lqdBjdJgWg,51.0 to 56.0,N/A,N/A
+dishes_pots_and_pans,"dishes, pots, and pans",1550.0 to 1555.0,https://www.youtube.com/watch?v=1sQZA_LsZKI,31.0 to 36.0,N/A,N/A
+dishes_pots_and_pans,"dishes, pots, and pans",1555.0 to 1560.0,https://www.youtube.com/watch?v=1w8XsAzgCg8,211.0 to 216.0,N/A,N/A
+dishes_pots_and_pans,"dishes, pots, and pans",1560.0 to 1565.0,https://www.youtube.com/watch?v=2-ppz_pSlrQ,171.0 to 176.0,N/A,N/A
+dishes_pots_and_pans,"dishes, pots, and pans",1565.0 to 1570.0,https://www.youtube.com/watch?v=20z2PANFxtk,61.0 to 66.0,N/A,N/A
+dishes_pots_and_pans,"dishes, pots, and pans",1570.0 to 1575.0,https://www.youtube.com/watch?v=257OKP3ZLD0,31.0 to 36.0,N/A,N/A
+dishes_pots_and_pans,"dishes, pots, and pans",1575.0 to 1580.0,https://www.youtube.com/watch?v=2MwW5vQm4wI,211.0 to 216.0,N/A,N/A
+wood,wood,1580.0 to 1585.0,https://www.youtube.com/watch?v=-3yFtSBKXM4,31.0 to 36.0,N/A,N/A
+wood,wood,1585.0 to 1590.0,https://www.youtube.com/watch?v=-4c0GKMHLkE,1.0 to 6.0,N/A,N/A
+wood,wood,1590.0 to 1595.0,https://www.youtube.com/watch?v=-5HoQzaVHZY,591.0 to 596.0,N/A,N/A
+wood,wood,1595.0 to 1600.0,https://www.youtube.com/watch?v=-7RIj2V4Dn8,121.0 to 126.0,N/A,N/A
+wood,wood,1600.0 to 1605.0,https://www.youtube.com/watch?v=-CArziSbexU,111.0 to 116.0,N/A,N/A
+wood,wood,1605.0 to 1610.0,https://www.youtube.com/watch?v=-CexEQAEdAg,31.0 to 36.0,N/A,N/A
+wood,wood,1610.0 to 1615.0,https://www.youtube.com/watch?v=-ECNklRUX4I,11.0 to 16.0,N/A,N/A
+wood,wood,1615.0 to 1620.0,https://www.youtube.com/watch?v=-N2L7AZAQlo,271.0 to 276.0,N/A,N/A
+wood,wood,1620.0 to 1625.0,https://www.youtube.com/watch?v=-TSWybYVnmc,61.0 to 66.0,N/A,N/A
+wood,wood,1625.0 to 1630.0,https://www.youtube.com/watch?v=-Yp7B7vyl3U,61.0 to 66.0,N/A,N/A
+wood,wood,1630.0 to 1635.0,https://www.youtube.com/watch?v=-im5HFDptmY,71.0 to 76.0,N/A,N/A
+wood,wood,1635.0 to 1640.0,https://www.youtube.com/watch?v=-jzKKIHhTU0,31.0 to 36.0,N/A,N/A
+wood,wood,1640.0 to 1645.0,https://www.youtube.com/watch?v=-nN9ATsoYhE,221.0 to 226.0,N/A,N/A
+wood,wood,1645.0 to 1650.0,https://www.youtube.com/watch?v=-ph3XynSbMc,111.0 to 116.0,N/A,N/A
+wood,wood,1650.0 to 1655.0,https://www.youtube.com/watch?v=-smHA6NzXKM,51.0 to 56.0,N/A,N/A
+wood,wood,1655.0 to 1660.0,https://www.youtube.com/watch?v=-wSynSt8RHw,131.0 to 136.0,N/A,N/A
+wood,wood,1660.0 to 1665.0,https://www.youtube.com/watch?v=-yZPEzsZT2g,31.0 to 36.0,N/A,N/A
+wood,wood,1665.0 to 1670.0,https://www.youtube.com/watch?v=03eeF98zi0M,141.0 to 146.0,N/A,N/A
+wood,wood,1670.0 to 1675.0,https://www.youtube.com/watch?v=0CPR0THxzhk,191.0 to 196.0,N/A,N/A
+wood,wood,1675.0 to 1680.0,https://www.youtube.com/watch?v=0DW7g8yQsaY,381.0 to 386.0,N/A,N/A
+wood,wood,1680.0 to 1685.0,https://www.youtube.com/watch?v=0QbbhhMU2Z0,101.0 to 106.0,N/A,N/A
+wood,wood,1685.0 to 1690.0,https://www.youtube.com/watch?v=0SQVoHFcX7A,51.0 to 56.0,N/A,N/A
+wood,wood,1690.0 to 1695.0,https://www.youtube.com/watch?v=0hS8i9Azdbw,31.0 to 36.0,N/A,N/A
+wood,wood,1695.0 to 1700.0,https://www.youtube.com/watch?v=0iNLNLRQ9tE,551.0 to 556.0,N/A,N/A
+television_speech,television;speech;speech,1700.0 to 1705.0,https://www.youtube.com/watch?v=-0F3UWMRsXg,31.0 to 36.0,https://www.youtube.com/watch?v=---2_BBVHAA,31.0 to 36.0
+television_speech,music;television;speech,1705.0 to 1710.0,https://www.youtube.com/watch?v=-0HCoFwA-ZM,17.0 to 22.0,https://www.youtube.com/watch?v=---qub7uxgs,31.0 to 36.0
+television_speech,music;television;speech;speech,1710.0 to 1715.0,https://www.youtube.com/watch?v=-0HIY5GQ7qs,1.0 to 6.0,https://www.youtube.com/watch?v=--0B3G_C3qc,11.0 to 16.0
+television_speech,music;television;speech,1715.0 to 1720.0,https://www.youtube.com/watch?v=-0SUfJHqSyY,1.0 to 6.0,https://www.youtube.com/watch?v=--0CNhurbZE,31.0 to 36.0
+television_speech,music;television;speech,1720.0 to 1725.0,https://www.youtube.com/watch?v=-0SbLD6Du_o,1.0 to 6.0,https://www.youtube.com/watch?v=--0F7kbzAMA,31.0 to 36.0
+television_speech,music;television;speech,1725.0 to 1730.0,https://www.youtube.com/watch?v=-0bNVGSAVNs,31.0 to 36.0,https://www.youtube.com/watch?v=--0MF9K5N30,31.0 to 36.0
+television_speech,music;television;speech,1730.0 to 1735.0,https://www.youtube.com/watch?v=-1530mrueEY,13.0 to 18.0,https://www.youtube.com/watch?v=--0pVlB7mQ8,31.0 to 36.0
+television_speech,television;speech;speech,1735.0 to 1740.0,https://www.youtube.com/watch?v=-25qfL4m9go,31.0 to 36.0,https://www.youtube.com/watch?v=--0ukMG7yH4,31.0 to 36.0
+television_speech,music;television;speech,1740.0 to 1745.0,https://www.youtube.com/watch?v=-2HxeODYXu4,121.0 to 126.0,https://www.youtube.com/watch?v=--1Bi_4aXyU,31.0 to 36.0
+television_speech,music;television;speech;speech,1745.0 to 1750.0,https://www.youtube.com/watch?v=-2gDc8ENQw8,22.0 to 27.0,https://www.youtube.com/watch?v=--1nnAww5MY,171.0 to 176.0
+television_speech,music;television;speech,1750.0 to 1755.0,https://www.youtube.com/watch?v=-2hDoZ4yUy0,31.0 to 36.0,https://www.youtube.com/watch?v=--27rbu__kM,31.0 to 36.0
+television_speech,music;television;speech,1755.0 to 1760.0,https://www.youtube.com/watch?v=-2hND1B8VOU,31.0 to 36.0,https://www.youtube.com/watch?v=--296-zXH3I,31.0 to 36.0
+television_speech,music;television;speech,1760.0 to 1765.0,https://www.youtube.com/watch?v=-3fZboxjMLc,1.0 to 3.0,https://www.youtube.com/watch?v=--2ENPwFQLY,31.0 to 36.0
+television_speech,television;speech,1765.0 to 1770.0,https://www.youtube.com/watch?v=-4kna0BxXkU,1.0 to 4.0,https://www.youtube.com/watch?v=--30J4RIDXs,31.0 to 36.0
+television_speech,television;speech,1770.0 to 1775.0,https://www.youtube.com/watch?v=-521k7QnrSk,71.0 to 76.0,https://www.youtube.com/watch?v=--3SH5_r-BU,31.0 to 36.0
+television_speech,music;television;speech;speech,1775.0 to 1780.0,https://www.youtube.com/watch?v=-52FrZ0RN5M,10.0 to 15.0,https://www.youtube.com/watch?v=--3T7dwFLjU,31.0 to 36.0
+television_speech,television;speech;speech,1780.0 to 1785.0,https://www.youtube.com/watch?v=-57pV9HAz2E,31.0 to 36.0,https://www.youtube.com/watch?v=--3mqI-rLFQ,31.0 to 36.0
+television_speech,television;speech;speech,1785.0 to 1790.0,https://www.youtube.com/watch?v=-5R0bjd4W1c,31.0 to 36.0,https://www.youtube.com/watch?v=--44ksVCX4g,131.0 to 136.0
+television_speech,music;television;speech,1790.0 to 1795.0,https://www.youtube.com/watch?v=-6f_a3I8jmg,1.0 to 6.0,https://www.youtube.com/watch?v=--4AZakCudI,31.0 to 36.0
+television_speech,music;television;speech;speech,1795.0 to 1800.0,https://www.youtube.com/watch?v=-7icXiw3oWg,1.0 to 6.0,https://www.youtube.com/watch?v=--4CM0LIKBA,31.0 to 36.0
+television_speech,television;speech;speech,1800.0 to 1805.0,https://www.youtube.com/watch?v=-7u3faUt80k,31.0 to 36.0,https://www.youtube.com/watch?v=--4G-oot8ww,31.0 to 36.0
+television_speech,music;television;speech;speech,1805.0 to 1810.0,https://www.youtube.com/watch?v=-84v6f6JkJE,23.0 to 28.0,https://www.youtube.com/watch?v=--4L-eLH27c,31.0 to 36.0
+television_speech,music;television;speech,1810.0 to 1815.0,https://www.youtube.com/watch?v=-8Rn68h3JTs,2.0 to 7.0,https://www.youtube.com/watch?v=--4QdQLdWuQ,20.0 to 25.0
+television_speech,music;television;speech,1815.0 to 1820.0,https://www.youtube.com/watch?v=-9LUlDlBcgw,1.0 to 4.0,https://www.youtube.com/watch?v=--4XCYPABls,31.0 to 36.0
+television_rail_transport,television;speech;rail transport,1820.0 to 1825.0,https://www.youtube.com/watch?v=-0F3UWMRsXg,31.0 to 36.0,https://www.youtube.com/watch?v=0GCKlf0CYqo,31.0 to 36.0
+television_rail_transport,music;television;rail transport,1825.0 to 1830.0,https://www.youtube.com/watch?v=-0HCoFwA-ZM,17.0 to 22.0,https://www.youtube.com/watch?v=16c6NcNte5g,21.0 to 26.0
+television_rail_transport,music;television;speech;rail transport,1830.0 to 1835.0,https://www.youtube.com/watch?v=-0HIY5GQ7qs,1.0 to 6.0,https://www.youtube.com/watch?v=2-CpIlLNIyg,31.0 to 36.0
+television_rail_transport,music;television;rail transport,1835.0 to 1840.0,https://www.youtube.com/watch?v=-0SUfJHqSyY,1.0 to 6.0,https://www.youtube.com/watch?v=3lY0mff-lxQ,21.0 to 26.0
+television_rail_transport,music;television;rail transport,1840.0 to 1845.0,https://www.youtube.com/watch?v=-0SbLD6Du_o,1.0 to 6.0,https://www.youtube.com/watch?v=0GCKlf0CYqo,31.0 to 36.0
+television_rail_transport,music;television;rail transport,1845.0 to 1850.0,https://www.youtube.com/watch?v=-0bNVGSAVNs,31.0 to 36.0,https://www.youtube.com/watch?v=16c6NcNte5g,21.0 to 26.0
+television_rail_transport,music;television;rail transport,1850.0 to 1855.0,https://www.youtube.com/watch?v=-1530mrueEY,13.0 to 18.0,https://www.youtube.com/watch?v=2-CpIlLNIyg,31.0 to 36.0
+television_rail_transport,television;speech;rail transport,1855.0 to 1860.0,https://www.youtube.com/watch?v=-25qfL4m9go,31.0 to 36.0,https://www.youtube.com/watch?v=3lY0mff-lxQ,21.0 to 26.0
+television_rail_transport,music;television;rail transport,1860.0 to 1865.0,https://www.youtube.com/watch?v=-2HxeODYXu4,121.0 to 126.0,https://www.youtube.com/watch?v=0GCKlf0CYqo,31.0 to 36.0
+television_rail_transport,music;television;speech;rail transport,1865.0 to 1870.0,https://www.youtube.com/watch?v=-2gDc8ENQw8,22.0 to 27.0,https://www.youtube.com/watch?v=16c6NcNte5g,21.0 to 26.0
+television_rail_transport,music;television;rail transport,1870.0 to 1875.0,https://www.youtube.com/watch?v=-2hDoZ4yUy0,31.0 to 36.0,https://www.youtube.com/watch?v=2-CpIlLNIyg,31.0 to 36.0
+television_rail_transport,music;television;rail transport,1875.0 to 1880.0,https://www.youtube.com/watch?v=-2hND1B8VOU,31.0 to 36.0,https://www.youtube.com/watch?v=3lY0mff-lxQ,21.0 to 26.0
+television_rail_transport,music;television;rail transport,1880.0 to 1885.0,https://www.youtube.com/watch?v=-3fZboxjMLc,1.0 to 3.0,https://www.youtube.com/watch?v=0GCKlf0CYqo,31.0 to 36.0
+television_rail_transport,television;rail transport,1885.0 to 1890.0,https://www.youtube.com/watch?v=-4kna0BxXkU,1.0 to 4.0,https://www.youtube.com/watch?v=16c6NcNte5g,21.0 to 26.0
+television_rail_transport,television;rail transport,1890.0 to 1895.0,https://www.youtube.com/watch?v=-521k7QnrSk,71.0 to 76.0,https://www.youtube.com/watch?v=2-CpIlLNIyg,31.0 to 36.0
+television_rail_transport,music;television;speech;rail transport,1895.0 to 1900.0,https://www.youtube.com/watch?v=-52FrZ0RN5M,10.0 to 15.0,https://www.youtube.com/watch?v=3lY0mff-lxQ,21.0 to 26.0
+television_rail_transport,television;speech;rail transport,1900.0 to 1905.0,https://www.youtube.com/watch?v=-57pV9HAz2E,31.0 to 36.0,https://www.youtube.com/watch?v=0GCKlf0CYqo,31.0 to 36.0
+television_rail_transport,television;speech;rail transport,1905.0 to 1910.0,https://www.youtube.com/watch?v=-5R0bjd4W1c,31.0 to 36.0,https://www.youtube.com/watch?v=16c6NcNte5g,21.0 to 26.0
+television_rail_transport,music;television;rail transport,1910.0 to 1915.0,https://www.youtube.com/watch?v=-6f_a3I8jmg,1.0 to 6.0,https://www.youtube.com/watch?v=2-CpIlLNIyg,31.0 to 36.0
+television_rail_transport,music;television;speech;rail transport,1915.0 to 1920.0,https://www.youtube.com/watch?v=-7icXiw3oWg,1.0 to 6.0,https://www.youtube.com/watch?v=3lY0mff-lxQ,21.0 to 26.0
+television_rail_transport,television;speech;rail transport,1920.0 to 1925.0,https://www.youtube.com/watch?v=-7u3faUt80k,31.0 to 36.0,https://www.youtube.com/watch?v=0GCKlf0CYqo,31.0 to 36.0
+television_rail_transport,music;television;speech;rail transport,1925.0 to 1930.0,https://www.youtube.com/watch?v=-84v6f6JkJE,23.0 to 28.0,https://www.youtube.com/watch?v=16c6NcNte5g,21.0 to 26.0
+television_rail_transport,music;television;rail transport,1930.0 to 1935.0,https://www.youtube.com/watch?v=-8Rn68h3JTs,2.0 to 7.0,https://www.youtube.com/watch?v=2-CpIlLNIyg,31.0 to 36.0
+television_rail_transport,music;television;rail transport,1935.0 to 1940.0,https://www.youtube.com/watch?v=-9LUlDlBcgw,1.0 to 4.0,https://www.youtube.com/watch?v=3lY0mff-lxQ,21.0 to 26.0
+television_vehicle,television;speech;vehicle,1940.0 to 1945.0,https://www.youtube.com/watch?v=-0F3UWMRsXg,31.0 to 36.0,https://www.youtube.com/watch?v=--0XKTm28ts,51.0 to 56.0
+television_vehicle,music;television;vehicle,1945.0 to 1950.0,https://www.youtube.com/watch?v=-0HCoFwA-ZM,17.0 to 22.0,https://www.youtube.com/watch?v=--6aF5STVP8,31.0 to 36.0
+television_vehicle,music;television;speech;vehicle,1950.0 to 1955.0,https://www.youtube.com/watch?v=-0HIY5GQ7qs,1.0 to 6.0,https://www.youtube.com/watch?v=--D3mJ0wwrg,11.0 to 16.0
+television_vehicle,music;television;vehicle,1955.0 to 1960.0,https://www.youtube.com/watch?v=-0SUfJHqSyY,1.0 to 6.0,https://www.youtube.com/watch?v=--PDHCD2XDw,31.0 to 36.0
+television_vehicle,music;television;vehicle,1960.0 to 1965.0,https://www.youtube.com/watch?v=-0SbLD6Du_o,1.0 to 6.0,https://www.youtube.com/watch?v=--UO9BIS-R0,31.0 to 36.0
+television_vehicle,music;television;vehicle,1965.0 to 1970.0,https://www.youtube.com/watch?v=-0bNVGSAVNs,31.0 to 36.0,https://www.youtube.com/watch?v=--Xn_Zfv9sQ,30.0 to 35.0
+television_vehicle,music;television;vehicle,1970.0 to 1975.0,https://www.youtube.com/watch?v=-1530mrueEY,13.0 to 18.0,https://www.youtube.com/watch?v=-0FmHb06X-s,31.0 to 36.0
+television_vehicle,television;speech;vehicle,1975.0 to 1980.0,https://www.youtube.com/watch?v=-25qfL4m9go,31.0 to 36.0,https://www.youtube.com/watch?v=-0JYEEzlT-8,31.0 to 36.0
+television_vehicle,music;television;vehicle,1980.0 to 1985.0,https://www.youtube.com/watch?v=-2HxeODYXu4,121.0 to 126.0,https://www.youtube.com/watch?v=-0QQZdhcQt0,31.0 to 36.0
+television_vehicle,music;television;speech;vehicle,1985.0 to 1990.0,https://www.youtube.com/watch?v=-2gDc8ENQw8,22.0 to 27.0,https://www.youtube.com/watch?v=-0dmPgqorkk,31.0 to 36.0
+television_vehicle,music;television;vehicle,1990.0 to 1995.0,https://www.youtube.com/watch?v=-2hDoZ4yUy0,31.0 to 36.0,https://www.youtube.com/watch?v=-0m6wSBNS_g,71.0 to 76.0
+television_vehicle,music;television;vehicle,1995.0 to 2000.0,https://www.youtube.com/watch?v=-2hND1B8VOU,31.0 to 36.0,https://www.youtube.com/watch?v=-18nX6HO5QU,41.0 to 46.0
+television_vehicle,music;television;vehicle,2000.0 to 2005.0,https://www.youtube.com/watch?v=-3fZboxjMLc,1.0 to 3.0,https://www.youtube.com/watch?v=-1FLdap8zzI,31.0 to 36.0
+television_vehicle,television;vehicle,2005.0 to 2010.0,https://www.youtube.com/watch?v=-4kna0BxXkU,1.0 to 4.0,https://www.youtube.com/watch?v=-1PXXuFCtF0,31.0 to 36.0
+television_vehicle,television;vehicle,2010.0 to 2015.0,https://www.youtube.com/watch?v=-521k7QnrSk,71.0 to 76.0,https://www.youtube.com/watch?v=-1j17BOI8eM,31.0 to 36.0
+television_vehicle,music;television;speech;vehicle,2015.0 to 2020.0,https://www.youtube.com/watch?v=-52FrZ0RN5M,10.0 to 15.0,https://www.youtube.com/watch?v=-1nnL5IbY9U,31.0 to 36.0
+television_vehicle,television;speech;vehicle,2020.0 to 2025.0,https://www.youtube.com/watch?v=-57pV9HAz2E,31.0 to 36.0,https://www.youtube.com/watch?v=-2Dn1lJPhYY,31.0 to 36.0
+television_vehicle,television;speech;vehicle,2025.0 to 2030.0,https://www.youtube.com/watch?v=-5R0bjd4W1c,31.0 to 36.0,https://www.youtube.com/watch?v=-2J2tTo6WQs,301.0 to 306.0
+television_vehicle,music;television;vehicle,2030.0 to 2035.0,https://www.youtube.com/watch?v=-6f_a3I8jmg,1.0 to 6.0,https://www.youtube.com/watch?v=-2bHggyjwGc,31.0 to 36.0
+television_vehicle,music;television;speech;vehicle,2035.0 to 2040.0,https://www.youtube.com/watch?v=-7icXiw3oWg,1.0 to 6.0,https://www.youtube.com/watch?v=-2vWzZPmHYI,31.0 to 36.0
+television_vehicle,television;speech;vehicle,2040.0 to 2045.0,https://www.youtube.com/watch?v=-7u3faUt80k,31.0 to 36.0,https://www.youtube.com/watch?v=-3-Zisupbeo,31.0 to 36.0
+television_vehicle,music;television;speech;vehicle,2045.0 to 2050.0,https://www.youtube.com/watch?v=-84v6f6JkJE,23.0 to 28.0,https://www.youtube.com/watch?v=-3KtNOqHb2A,31.0 to 36.0
+television_vehicle,music;television;vehicle,2050.0 to 2055.0,https://www.youtube.com/watch?v=-8Rn68h3JTs,2.0 to 7.0,https://www.youtube.com/watch?v=-3W7aoSLg8M,31.0 to 36.0
+television_vehicle,music;television;vehicle,2055.0 to 2060.0,https://www.youtube.com/watch?v=-9LUlDlBcgw,1.0 to 4.0,https://www.youtube.com/watch?v=-3_3fqA600E,5.0 to 10.0
+rail_transport_vehicle,rail transport;vehicle,2060.0 to 2065.0,https://www.youtube.com/watch?v=0GCKlf0CYqo,31.0 to 36.0,https://www.youtube.com/watch?v=--0XKTm28ts,51.0 to 56.0
+rail_transport_vehicle,rail transport;vehicle,2065.0 to 2070.0,https://www.youtube.com/watch?v=16c6NcNte5g,21.0 to 26.0,https://www.youtube.com/watch?v=--6aF5STVP8,31.0 to 36.0
+rail_transport_vehicle,rail transport;vehicle,2070.0 to 2075.0,https://www.youtube.com/watch?v=2-CpIlLNIyg,31.0 to 36.0,https://www.youtube.com/watch?v=--D3mJ0wwrg,11.0 to 16.0
+rail_transport_vehicle,rail transport;vehicle,2075.0 to 2080.0,https://www.youtube.com/watch?v=3lY0mff-lxQ,21.0 to 26.0,https://www.youtube.com/watch?v=--PDHCD2XDw,31.0 to 36.0
+rail_transport_vehicle,rail transport;vehicle,2080.0 to 2085.0,https://www.youtube.com/watch?v=0GCKlf0CYqo,31.0 to 36.0,https://www.youtube.com/watch?v=--UO9BIS-R0,31.0 to 36.0
+rail_transport_vehicle,rail transport;vehicle,2085.0 to 2090.0,https://www.youtube.com/watch?v=16c6NcNte5g,21.0 to 26.0,https://www.youtube.com/watch?v=--Xn_Zfv9sQ,30.0 to 35.0
+rail_transport_vehicle,rail transport;vehicle,2090.0 to 2095.0,https://www.youtube.com/watch?v=2-CpIlLNIyg,31.0 to 36.0,https://www.youtube.com/watch?v=-0FmHb06X-s,31.0 to 36.0
+rail_transport_vehicle,rail transport;vehicle,2095.0 to 2100.0,https://www.youtube.com/watch?v=3lY0mff-lxQ,21.0 to 26.0,https://www.youtube.com/watch?v=-0JYEEzlT-8,31.0 to 36.0
+rail_transport_vehicle,rail transport;vehicle,2100.0 to 2105.0,https://www.youtube.com/watch?v=0GCKlf0CYqo,31.0 to 36.0,https://www.youtube.com/watch?v=-0QQZdhcQt0,31.0 to 36.0
+rail_transport_vehicle,rail transport;vehicle,2105.0 to 2110.0,https://www.youtube.com/watch?v=16c6NcNte5g,21.0 to 26.0,https://www.youtube.com/watch?v=-0dmPgqorkk,31.0 to 36.0
+rail_transport_vehicle,rail transport;vehicle,2110.0 to 2115.0,https://www.youtube.com/watch?v=2-CpIlLNIyg,31.0 to 36.0,https://www.youtube.com/watch?v=-0m6wSBNS_g,71.0 to 76.0
+rail_transport_vehicle,rail transport;vehicle,2115.0 to 2120.0,https://www.youtube.com/watch?v=3lY0mff-lxQ,21.0 to 26.0,https://www.youtube.com/watch?v=-18nX6HO5QU,41.0 to 46.0
+rail_transport_vehicle,rail transport;vehicle,2120.0 to 2125.0,https://www.youtube.com/watch?v=0GCKlf0CYqo,31.0 to 36.0,https://www.youtube.com/watch?v=-1FLdap8zzI,31.0 to 36.0
+rail_transport_vehicle,rail transport;vehicle,2125.0 to 2130.0,https://www.youtube.com/watch?v=16c6NcNte5g,21.0 to 26.0,https://www.youtube.com/watch?v=-1PXXuFCtF0,31.0 to 36.0
+rail_transport_vehicle,rail transport;vehicle,2130.0 to 2135.0,https://www.youtube.com/watch?v=2-CpIlLNIyg,31.0 to 36.0,https://www.youtube.com/watch?v=-1j17BOI8eM,31.0 to 36.0
+rail_transport_vehicle,rail transport;vehicle,2135.0 to 2140.0,https://www.youtube.com/watch?v=3lY0mff-lxQ,21.0 to 26.0,https://www.youtube.com/watch?v=-1nnL5IbY9U,31.0 to 36.0
+rail_transport_vehicle,rail transport;vehicle,2140.0 to 2145.0,https://www.youtube.com/watch?v=0GCKlf0CYqo,31.0 to 36.0,https://www.youtube.com/watch?v=-2Dn1lJPhYY,31.0 to 36.0
+rail_transport_vehicle,rail transport;vehicle,2145.0 to 2150.0,https://www.youtube.com/watch?v=16c6NcNte5g,21.0 to 26.0,https://www.youtube.com/watch?v=-2J2tTo6WQs,301.0 to 306.0
+rail_transport_vehicle,rail transport;vehicle,2150.0 to 2155.0,https://www.youtube.com/watch?v=2-CpIlLNIyg,31.0 to 36.0,https://www.youtube.com/watch?v=-2bHggyjwGc,31.0 to 36.0
+rail_transport_vehicle,rail transport;vehicle,2155.0 to 2160.0,https://www.youtube.com/watch?v=3lY0mff-lxQ,21.0 to 26.0,https://www.youtube.com/watch?v=-2vWzZPmHYI,31.0 to 36.0
+rail_transport_vehicle,rail transport;vehicle,2160.0 to 2165.0,https://www.youtube.com/watch?v=0GCKlf0CYqo,31.0 to 36.0,https://www.youtube.com/watch?v=-3-Zisupbeo,31.0 to 36.0
+rail_transport_vehicle,rail transport;vehicle,2165.0 to 2170.0,https://www.youtube.com/watch?v=16c6NcNte5g,21.0 to 26.0,https://www.youtube.com/watch?v=-3KtNOqHb2A,31.0 to 36.0
+rail_transport_vehicle,rail transport;vehicle,2170.0 to 2175.0,https://www.youtube.com/watch?v=2-CpIlLNIyg,31.0 to 36.0,https://www.youtube.com/watch?v=-3W7aoSLg8M,31.0 to 36.0
+rail_transport_vehicle,rail transport;vehicle,2175.0 to 2180.0,https://www.youtube.com/watch?v=3lY0mff-lxQ,21.0 to 26.0,https://www.youtube.com/watch?v=-3_3fqA600E,5.0 to 10.0
+drawer_open_or_close_wood,drawer open or close;wood,2180.0 to 2185.0,https://www.youtube.com/watch?v=-FakAjtg2uk,26.0 to 31.0,https://www.youtube.com/watch?v=-3yFtSBKXM4,31.0 to 36.0
+drawer_open_or_close_wood,drawer open or close;wood,2185.0 to 2190.0,https://www.youtube.com/watch?v=-S4KxMmj_SI,221.0 to 226.0,https://www.youtube.com/watch?v=-4c0GKMHLkE,1.0 to 6.0
+drawer_open_or_close_wood,drawer open or close;wood,2190.0 to 2195.0,https://www.youtube.com/watch?v=0ljrgCrawsg,241.0 to 246.0,https://www.youtube.com/watch?v=-5HoQzaVHZY,591.0 to 596.0
+drawer_open_or_close_wood,drawer open or close;wood,2195.0 to 2200.0,https://www.youtube.com/watch?v=0t1hN67OU7M,131.0 to 136.0,https://www.youtube.com/watch?v=-7RIj2V4Dn8,121.0 to 126.0
+drawer_open_or_close_wood,drawer open or close;wood,2200.0 to 2205.0,https://www.youtube.com/watch?v=1slmvQmNJ-Y,31.0 to 36.0,https://www.youtube.com/watch?v=-CArziSbexU,111.0 to 116.0
+drawer_open_or_close_wood,drawer open or close;wood,2205.0 to 2210.0,https://www.youtube.com/watch?v=4MX8Z4ZxjiQ,21.0 to 26.0,https://www.youtube.com/watch?v=-CexEQAEdAg,31.0 to 36.0
+drawer_open_or_close_wood,drawer open or close;wood,2210.0 to 2215.0,https://www.youtube.com/watch?v=4jJBRLJLwbY,171.0 to 176.0,https://www.youtube.com/watch?v=-ECNklRUX4I,11.0 to 16.0
+drawer_open_or_close_wood,drawer open or close;wood,2215.0 to 2220.0,https://www.youtube.com/watch?v=4yn2Bpag12o,181.0 to 186.0,https://www.youtube.com/watch?v=-N2L7AZAQlo,271.0 to 276.0
+drawer_open_or_close_wood,drawer open or close;wood,2220.0 to 2225.0,https://www.youtube.com/watch?v=5EggSP0FL3Y,191.0 to 196.0,https://www.youtube.com/watch?v=-TSWybYVnmc,61.0 to 66.0
+drawer_open_or_close_wood,drawer open or close;wood,2225.0 to 2230.0,https://www.youtube.com/watch?v=7TwvU6UEh-w,111.0 to 116.0,https://www.youtube.com/watch?v=-Yp7B7vyl3U,61.0 to 66.0
+drawer_open_or_close_wood,drawer open or close;wood,2230.0 to 2235.0,https://www.youtube.com/watch?v=8f6KWwG8lEs,31.0 to 36.0,https://www.youtube.com/watch?v=-im5HFDptmY,71.0 to 76.0
+drawer_open_or_close_wood,drawer open or close;wood,2235.0 to 2240.0,https://www.youtube.com/watch?v=92SpwzFWhXk,511.0 to 516.0,https://www.youtube.com/watch?v=-jzKKIHhTU0,31.0 to 36.0
+drawer_open_or_close_wood,drawer open or close;wood,2240.0 to 2245.0,https://www.youtube.com/watch?v=C8mXWBmjUEk,241.0 to 246.0,https://www.youtube.com/watch?v=-nN9ATsoYhE,221.0 to 226.0
+drawer_open_or_close_wood,drawer open or close;wood,2245.0 to 2250.0,https://www.youtube.com/watch?v=ERtge0S7adY,591.0 to 596.0,https://www.youtube.com/watch?v=-ph3XynSbMc,111.0 to 116.0
+drawer_open_or_close_wood,drawer open or close;wood,2250.0 to 2255.0,https://www.youtube.com/watch?v=GXN8in-WRGw,31.0 to 36.0,https://www.youtube.com/watch?v=-smHA6NzXKM,51.0 to 56.0
+drawer_open_or_close_wood,drawer open or close;wood,2255.0 to 2260.0,https://www.youtube.com/watch?v=IUgfBal4v1U,191.0 to 196.0,https://www.youtube.com/watch?v=-wSynSt8RHw,131.0 to 136.0
+drawer_open_or_close_wood,drawer open or close;wood,2260.0 to 2265.0,https://www.youtube.com/watch?v=Ns3yESed4Pg,27.0 to 32.0,https://www.youtube.com/watch?v=-yZPEzsZT2g,31.0 to 36.0
+drawer_open_or_close_wood,drawer open or close;wood,2265.0 to 2270.0,https://www.youtube.com/watch?v=Qk6eVp7ot1A,141.0 to 146.0,https://www.youtube.com/watch?v=03eeF98zi0M,141.0 to 146.0
+drawer_open_or_close_wood,drawer open or close;wood,2270.0 to 2275.0,https://www.youtube.com/watch?v=SMjUdE9YXXU,1.0 to 6.0,https://www.youtube.com/watch?v=0CPR0THxzhk,191.0 to 196.0
+drawer_open_or_close_wood,drawer open or close;wood,2275.0 to 2280.0,https://www.youtube.com/watch?v=SfpljFYdUb4,1.0 to 6.0,https://www.youtube.com/watch?v=0DW7g8yQsaY,381.0 to 386.0
+drawer_open_or_close_wood,drawer open or close;wood,2280.0 to 2285.0,https://www.youtube.com/watch?v=Syxz05Q7Irc,131.0 to 136.0,https://www.youtube.com/watch?v=0QbbhhMU2Z0,101.0 to 106.0
+drawer_open_or_close_wood,drawer open or close;wood,2285.0 to 2290.0,https://www.youtube.com/watch?v=V2P0ev4j568,1.0 to 6.0,https://www.youtube.com/watch?v=0SQVoHFcX7A,51.0 to 56.0
+drawer_open_or_close_wood,drawer open or close;wood,2290.0 to 2295.0,https://www.youtube.com/watch?v=WokleeCWvA4,1.0 to 6.0,https://www.youtube.com/watch?v=0hS8i9Azdbw,31.0 to 36.0
+drawer_open_or_close_wood,drawer open or close;wood,2295.0 to 2300.0,https://www.youtube.com/watch?v=Y71YAfb0Q74,1.0 to 6.0,https://www.youtube.com/watch?v=0iNLNLRQ9tE,551.0 to 556.0
+drawer_open_or_close_door,drawer open or close;door,2300.0 to 2305.0,https://www.youtube.com/watch?v=-FakAjtg2uk,26.0 to 31.0,https://www.youtube.com/watch?v=-2kJxd9ZW9g,13.0 to 18.0
+drawer_open_or_close_door,drawer open or close;door,2305.0 to 2310.0,https://www.youtube.com/watch?v=-S4KxMmj_SI,221.0 to 226.0,https://www.youtube.com/watch?v=-43v51oAu6I,2.0 to 7.0
+drawer_open_or_close_door,drawer open or close;door,2310.0 to 2315.0,https://www.youtube.com/watch?v=0ljrgCrawsg,241.0 to 246.0,https://www.youtube.com/watch?v=-9TZ-Wx33_A,31.0 to 36.0
+drawer_open_or_close_door,drawer open or close;door,2315.0 to 2320.0,https://www.youtube.com/watch?v=0t1hN67OU7M,131.0 to 136.0,https://www.youtube.com/watch?v=-AWZTvUrw1o,101.0 to 106.0
+drawer_open_or_close_door,drawer open or close;door,2320.0 to 2325.0,https://www.youtube.com/watch?v=1slmvQmNJ-Y,31.0 to 36.0,https://www.youtube.com/watch?v=-C0Tx3VJB7M,31.0 to 36.0
+drawer_open_or_close_door,drawer open or close;door,2325.0 to 2330.0,https://www.youtube.com/watch?v=4MX8Z4ZxjiQ,21.0 to 26.0,https://www.youtube.com/watch?v=-EM73hFsBTk,31.0 to 36.0
+drawer_open_or_close_door,drawer open or close;door,2330.0 to 2335.0,https://www.youtube.com/watch?v=4jJBRLJLwbY,171.0 to 176.0,https://www.youtube.com/watch?v=-G8t8dMrZ4M,1.0 to 6.0
+drawer_open_or_close_door,drawer open or close;door,2335.0 to 2340.0,https://www.youtube.com/watch?v=4yn2Bpag12o,181.0 to 186.0,https://www.youtube.com/watch?v=-GMc2WZqCOQ,12.0 to 17.0
+drawer_open_or_close_door,drawer open or close;door,2340.0 to 2345.0,https://www.youtube.com/watch?v=5EggSP0FL3Y,191.0 to 196.0,https://www.youtube.com/watch?v=-Kzza7idn94,181.0 to 186.0
+drawer_open_or_close_door,drawer open or close;door,2345.0 to 2350.0,https://www.youtube.com/watch?v=7TwvU6UEh-w,111.0 to 116.0,https://www.youtube.com/watch?v=-MHcSTmWNq8,1.0 to 6.0
+drawer_open_or_close_door,drawer open or close;door,2350.0 to 2355.0,https://www.youtube.com/watch?v=8f6KWwG8lEs,31.0 to 36.0,https://www.youtube.com/watch?v=-N2C9l8w3NQ,231.0 to 236.0
+drawer_open_or_close_door,drawer open or close;door,2355.0 to 2360.0,https://www.youtube.com/watch?v=92SpwzFWhXk,511.0 to 516.0,https://www.youtube.com/watch?v=-Yghfuqj-6k,441.0 to 446.0
+drawer_open_or_close_door,drawer open or close;door,2360.0 to 2365.0,https://www.youtube.com/watch?v=C8mXWBmjUEk,241.0 to 246.0,https://www.youtube.com/watch?v=-_PsJYVRMoQ,31.0 to 36.0
+drawer_open_or_close_door,drawer open or close;door,2365.0 to 2370.0,https://www.youtube.com/watch?v=ERtge0S7adY,591.0 to 596.0,https://www.youtube.com/watch?v=-_qn_Hlqhjo,31.0 to 36.0
+drawer_open_or_close_door,drawer open or close;door,2370.0 to 2375.0,https://www.youtube.com/watch?v=GXN8in-WRGw,31.0 to 36.0,https://www.youtube.com/watch?v=-aTSKztGz_k,31.0 to 36.0
+drawer_open_or_close_door,drawer open or close;door,2375.0 to 2380.0,https://www.youtube.com/watch?v=IUgfBal4v1U,191.0 to 196.0,https://www.youtube.com/watch?v=-ywydpvXI5g,18.0 to 23.0
+drawer_open_or_close_door,drawer open or close;door,2380.0 to 2385.0,https://www.youtube.com/watch?v=Ns3yESed4Pg,27.0 to 32.0,https://www.youtube.com/watch?v=0-Xc6oWa9hs,10.0 to 15.0
+drawer_open_or_close_door,drawer open or close;door,2385.0 to 2390.0,https://www.youtube.com/watch?v=Qk6eVp7ot1A,141.0 to 146.0,https://www.youtube.com/watch?v=037VysW-MUM,31.0 to 36.0
+drawer_open_or_close_door,drawer open or close;door,2390.0 to 2395.0,https://www.youtube.com/watch?v=SMjUdE9YXXU,1.0 to 6.0,https://www.youtube.com/watch?v=03A_m507LjM,1.0 to 4.0
+drawer_open_or_close_door,drawer open or close;door,2395.0 to 2400.0,https://www.youtube.com/watch?v=SfpljFYdUb4,1.0 to 6.0,https://www.youtube.com/watch?v=07krQ661fok,1.0 to 6.0
+drawer_open_or_close_door,drawer open or close;door,2400.0 to 2405.0,https://www.youtube.com/watch?v=Syxz05Q7Irc,131.0 to 136.0,https://www.youtube.com/watch?v=0Em3FVQMfcE,3.0 to 8.0
+drawer_open_or_close_door,drawer open or close;door,2405.0 to 2410.0,https://www.youtube.com/watch?v=V2P0ev4j568,1.0 to 6.0,https://www.youtube.com/watch?v=0Gl7_MoPvJM,31.0 to 36.0
+drawer_open_or_close_door,drawer open or close;door,2410.0 to 2415.0,https://www.youtube.com/watch?v=WokleeCWvA4,1.0 to 6.0,https://www.youtube.com/watch?v=0QhVfzoK7CQ,31.0 to 36.0
+drawer_open_or_close_door,drawer open or close;door,2415.0 to 2420.0,https://www.youtube.com/watch?v=Y71YAfb0Q74,1.0 to 6.0,https://www.youtube.com/watch?v=0R2xg1ZQRCo,10.0 to 15.0
+baby_cry_infant_cry_animal,"baby cry, infant cry;animal",2420.0 to 2425.0,https://www.youtube.com/watch?v=-7uZTWVNI4s,31.0 to 36.0,https://www.youtube.com/watch?v=--PmxBKSsvE,261.0 to 266.0
+baby_cry_infant_cry_animal,"baby cry, infant cry;animal",2425.0 to 2430.0,https://www.youtube.com/watch?v=-bnjqdi3nDE,31.0 to 36.0,https://www.youtube.com/watch?v=-2v57hTcfKM,1.0 to 6.0
+baby_cry_infant_cry_animal,"baby cry, infant cry;animal",2430.0 to 2435.0,https://www.youtube.com/watch?v=-gk3LALyrZg,41.0 to 46.0,https://www.youtube.com/watch?v=-39RnBGle_o,31.0 to 36.0
+baby_cry_infant_cry_animal,"baby cry, infant cry;animal",2435.0 to 2440.0,https://www.youtube.com/watch?v=03Hgkn0DIA8,31.0 to 36.0,https://www.youtube.com/watch?v=-3N7iSi9Ifk,231.0 to 236.0
+baby_cry_infant_cry_animal,"baby cry, infant cry;animal",2440.0 to 2445.0,https://www.youtube.com/watch?v=06HoMht81hE,1.0 to 2.0,https://www.youtube.com/watch?v=-4neKvO2yOo,31.0 to 36.0
+baby_cry_infant_cry_animal,"baby cry, infant cry;animal",2445.0 to 2450.0,https://www.youtube.com/watch?v=0VDWv2I1bDY,4.0 to 9.0,https://www.youtube.com/watch?v=-4v7E7WNQ5U,141.0 to 146.0
+baby_cry_infant_cry_animal,"baby cry, infant cry;animal",2450.0 to 2455.0,https://www.youtube.com/watch?v=0lq5Oey7ChY,31.0 to 36.0,https://www.youtube.com/watch?v=-6veqTg_HR0,31.0 to 36.0
+baby_cry_infant_cry_animal,"baby cry, infant cry;animal",2455.0 to 2460.0,https://www.youtube.com/watch?v=14ekd4nkpwc,29.0 to 34.0,https://www.youtube.com/watch?v=-7DFl-B62DQ,31.0 to 36.0
+baby_cry_infant_cry_animal,"baby cry, infant cry;animal",2460.0 to 2465.0,https://www.youtube.com/watch?v=1LQBKRQtQHg,7.0 to 12.0,https://www.youtube.com/watch?v=-7xpZPHWdlk,31.0 to 36.0
+baby_cry_infant_cry_animal,"baby cry, infant cry;dog;animal",2465.0 to 2470.0,https://www.youtube.com/watch?v=1MMh5GpXplE,31.0 to 36.0,https://www.youtube.com/watch?v=-8EPfCUsaJI,31.0 to 36.0
+baby_cry_infant_cry_animal,"baby cry, infant cry;animal",2470.0 to 2475.0,https://www.youtube.com/watch?v=1SA3fcQaO_c,9.0 to 14.0,https://www.youtube.com/watch?v=-Aznl8jNPak,31.0 to 36.0
+baby_cry_infant_cry_animal,"baby cry, infant cry;animal",2475.0 to 2480.0,https://www.youtube.com/watch?v=1ipyPEo9jus,22.0 to 27.0,https://www.youtube.com/watch?v=-CirKYqIfgI,31.0 to 36.0
+baby_cry_infant_cry_animal,"baby cry, infant cry;animal",2480.0 to 2485.0,https://www.youtube.com/watch?v=22ZIWghCrDk,14.0 to 19.0,https://www.youtube.com/watch?v=-DSW2l7s_Ws,551.0 to 556.0
+baby_cry_infant_cry_animal,"baby cry, infant cry;animal",2485.0 to 2490.0,https://www.youtube.com/watch?v=2cTMDUcVMeg,31.0 to 36.0,https://www.youtube.com/watch?v=-EIjhV35-RI,31.0 to 36.0
+baby_cry_infant_cry_animal,"baby cry, infant cry;animal",2490.0 to 2495.0,https://www.youtube.com/watch?v=2xuhfIVuOq0,6.0 to 11.0,https://www.youtube.com/watch?v=-F6O4DmjK6w,31.0 to 36.0
+baby_cry_infant_cry_animal,"baby cry, infant cry;animal",2495.0 to 2500.0,https://www.youtube.com/watch?v=33D-gg4ZYyc,31.0 to 36.0,https://www.youtube.com/watch?v=-FZ6WZTRDCg,1.0 to 6.0
+baby_cry_infant_cry_animal,"baby cry, infant cry;animal",2500.0 to 2505.0,https://www.youtube.com/watch?v=3FJN4BZSO78,18.0 to 23.0,https://www.youtube.com/watch?v=-JlpMlZdI8w,31.0 to 36.0
+baby_cry_infant_cry_animal,"baby cry, infant cry;animal",2505.0 to 2510.0,https://www.youtube.com/watch?v=3bSO8KWPbZM,31.0 to 36.0,https://www.youtube.com/watch?v=-Kg6F8E0B24,1.0 to 5.0
+baby_cry_infant_cry_animal,"baby cry, infant cry;animal",2510.0 to 2515.0,https://www.youtube.com/watch?v=3i0bbtKTFDc,9.0 to 14.0,https://www.youtube.com/watch?v=-M3Qr0wN8HA,6.0 to 11.0
+baby_cry_infant_cry_animal,"baby cry, infant cry;animal",2515.0 to 2520.0,https://www.youtube.com/watch?v=3pG8P6m0E4I,31.0 to 36.0,https://www.youtube.com/watch?v=-N175oUcKMM,121.0 to 126.0
+baby_cry_infant_cry_animal,"baby cry, infant cry;animal",2520.0 to 2525.0,https://www.youtube.com/watch?v=3sZMw6BdA1Y,31.0 to 36.0,https://www.youtube.com/watch?v=-N8YtcUJZX8,21.0 to 26.0
+baby_cry_infant_cry_animal,"baby cry, infant cry;animal",2525.0 to 2530.0,https://www.youtube.com/watch?v=3uUCjXOapM4,12.0 to 17.0,https://www.youtube.com/watch?v=-Np6I-FukMI,13.0 to 18.0
+baby_cry_infant_cry_animal,"baby cry, infant cry;animal",2530.0 to 2535.0,https://www.youtube.com/watch?v=3v7q1xTR2LQ,31.0 to 36.0,https://www.youtube.com/watch?v=-O4DeGjVjEI,31.0 to 36.0
+baby_cry_infant_cry_animal,"baby cry, infant cry;animal",2535.0 to 2540.0,https://www.youtube.com/watch?v=3vJBnPSyc1M,10.0 to 15.0,https://www.youtube.com/watch?v=-PDXNGVgrIA,28.0 to 33.0
+water_vehicle,water;vehicle,2540.0 to 2545.0,https://www.youtube.com/watch?v=--OBFOUWZi0,91.0 to 96.0,https://www.youtube.com/watch?v=--0XKTm28ts,51.0 to 56.0
+water_vehicle,water;vehicle,2545.0 to 2550.0,https://www.youtube.com/watch?v=-2T-couEK1Y,91.0 to 96.0,https://www.youtube.com/watch?v=--6aF5STVP8,31.0 to 36.0
+water_vehicle,water;vehicle,2550.0 to 2555.0,https://www.youtube.com/watch?v=-2UelknZGow,7.0 to 12.0,https://www.youtube.com/watch?v=--D3mJ0wwrg,11.0 to 16.0
+water_vehicle,water;vehicle,2555.0 to 2560.0,https://www.youtube.com/watch?v=-5AkgPTVovM,31.0 to 36.0,https://www.youtube.com/watch?v=--PDHCD2XDw,31.0 to 36.0
+water_vehicle,water;vehicle,2560.0 to 2565.0,https://www.youtube.com/watch?v=-77FQmCQ53k,11.0 to 16.0,https://www.youtube.com/watch?v=--UO9BIS-R0,31.0 to 36.0
+water_vehicle,water;vehicle,2565.0 to 2570.0,https://www.youtube.com/watch?v=-AJxrQVrimU,1.0 to 6.0,https://www.youtube.com/watch?v=--Xn_Zfv9sQ,30.0 to 35.0
+water_vehicle,water;vehicle,2570.0 to 2575.0,https://www.youtube.com/watch?v=-D4a8YW74-g,31.0 to 36.0,https://www.youtube.com/watch?v=-0FmHb06X-s,31.0 to 36.0
+water_vehicle,water;vehicle,2575.0 to 2580.0,https://www.youtube.com/watch?v=-EpyTyxKg8U,81.0 to 86.0,https://www.youtube.com/watch?v=-0JYEEzlT-8,31.0 to 36.0
+water_vehicle,water;vehicle,2580.0 to 2585.0,https://www.youtube.com/watch?v=-FxGXm-D2QM,31.0 to 36.0,https://www.youtube.com/watch?v=-0QQZdhcQt0,31.0 to 36.0
+water_vehicle,water;vehicle,2585.0 to 2590.0,https://www.youtube.com/watch?v=-GtdmI1Tqnw,31.0 to 36.0,https://www.youtube.com/watch?v=-0dmPgqorkk,31.0 to 36.0
+water_vehicle,water;vehicle,2590.0 to 2595.0,https://www.youtube.com/watch?v=-LmmObHeT0A,31.0 to 36.0,https://www.youtube.com/watch?v=-0m6wSBNS_g,71.0 to 76.0
+water_vehicle,water;vehicle,2595.0 to 2600.0,https://www.youtube.com/watch?v=-NLmGSskSYk,11.0 to 16.0,https://www.youtube.com/watch?v=-18nX6HO5QU,41.0 to 46.0
+water_vehicle,water;vehicle,2600.0 to 2605.0,https://www.youtube.com/watch?v=-NknsEwftDk,31.0 to 36.0,https://www.youtube.com/watch?v=-1FLdap8zzI,31.0 to 36.0
+water_vehicle,water;vehicle,2605.0 to 2610.0,https://www.youtube.com/watch?v=-OcKia5tJ0g,14.0 to 19.0,https://www.youtube.com/watch?v=-1PXXuFCtF0,31.0 to 36.0
+water_vehicle,water;vehicle,2610.0 to 2615.0,https://www.youtube.com/watch?v=-PHtCCUN_a0,31.0 to 36.0,https://www.youtube.com/watch?v=-1j17BOI8eM,31.0 to 36.0
+water_vehicle,water;vehicle,2615.0 to 2620.0,https://www.youtube.com/watch?v=-Qunm9_q7Dk,31.0 to 36.0,https://www.youtube.com/watch?v=-1nnL5IbY9U,31.0 to 36.0
+water_vehicle,water;vehicle,2620.0 to 2625.0,https://www.youtube.com/watch?v=-SLeq4CoIg8,181.0 to 186.0,https://www.youtube.com/watch?v=-2Dn1lJPhYY,31.0 to 36.0
+water_vehicle,water;vehicle,2625.0 to 2630.0,https://www.youtube.com/watch?v=-UNUYf9Y-4Q,31.0 to 36.0,https://www.youtube.com/watch?v=-2J2tTo6WQs,301.0 to 306.0
+water_vehicle,water;vehicle,2630.0 to 2635.0,https://www.youtube.com/watch?v=-UdzibtuaKk,11.0 to 16.0,https://www.youtube.com/watch?v=-2bHggyjwGc,31.0 to 36.0
+water_vehicle,water;vehicle,2635.0 to 2640.0,https://www.youtube.com/watch?v=-UsXa6F-ZlM,391.0 to 396.0,https://www.youtube.com/watch?v=-2vWzZPmHYI,31.0 to 36.0
+water_vehicle,water;vehicle,2640.0 to 2645.0,https://www.youtube.com/watch?v=-X8hzDxUzsU,111.0 to 116.0,https://www.youtube.com/watch?v=-3-Zisupbeo,31.0 to 36.0
+water_vehicle,water;vehicle,2645.0 to 2650.0,https://www.youtube.com/watch?v=-aB3kYZ_B9U,251.0 to 256.0,https://www.youtube.com/watch?v=-3KtNOqHb2A,31.0 to 36.0
+water_vehicle,water;vehicle,2650.0 to 2655.0,https://www.youtube.com/watch?v=-bf4LMAt-Tg,13.0 to 18.0,https://www.youtube.com/watch?v=-3W7aoSLg8M,31.0 to 36.0
+water_vehicle,water;vehicle,2655.0 to 2660.0,https://www.youtube.com/watch?v=-fYn52JCV9g,171.0 to 176.0,https://www.youtube.com/watch?v=-3_3fqA600E,5.0 to 10.0
+television_fire_alarm,television;speech;fire alarm,2660.0 to 2665.0,https://www.youtube.com/watch?v=-0F3UWMRsXg,31.0 to 36.0,https://www.youtube.com/watch?v=-M88hG5X8fQ,11.0 to 16.0
+television_fire_alarm,music;television;fire alarm,2665.0 to 2670.0,https://www.youtube.com/watch?v=-0HCoFwA-ZM,17.0 to 22.0,https://www.youtube.com/watch?v=0BEtPXdDQrs,251.0 to 256.0
+television_fire_alarm,music;television;speech;fire alarm,2670.0 to 2675.0,https://www.youtube.com/watch?v=-0HIY5GQ7qs,1.0 to 6.0,https://www.youtube.com/watch?v=0QJDqCcTDD4,101.0 to 106.0
+television_fire_alarm,music;television;fire alarm,2675.0 to 2680.0,https://www.youtube.com/watch?v=-0SUfJHqSyY,1.0 to 6.0,https://www.youtube.com/watch?v=1qku5sNlbhQ,71.0 to 76.0
+television_fire_alarm,music;television;fire alarm,2680.0 to 2685.0,https://www.youtube.com/watch?v=-0SbLD6Du_o,1.0 to 6.0,https://www.youtube.com/watch?v=25aBtgCxEug,441.0 to 446.0
+television_fire_alarm,music;television;fire alarm,2685.0 to 2690.0,https://www.youtube.com/watch?v=-0bNVGSAVNs,31.0 to 36.0,https://www.youtube.com/watch?v=3ComHEFnxpQ,1.0 to 6.0
+television_fire_alarm,music;television;fire alarm,2690.0 to 2695.0,https://www.youtube.com/watch?v=-1530mrueEY,13.0 to 18.0,https://www.youtube.com/watch?v=3ISCUTeusjE,71.0 to 76.0
+television_fire_alarm,television;speech;fire alarm,2695.0 to 2700.0,https://www.youtube.com/watch?v=-25qfL4m9go,31.0 to 36.0,https://www.youtube.com/watch?v=3KnomsL4BnA,131.0 to 136.0
+television_fire_alarm,music;television;fire alarm,2700.0 to 2705.0,https://www.youtube.com/watch?v=-2HxeODYXu4,121.0 to 126.0,https://www.youtube.com/watch?v=3Q7NQ2ddnv4,21.0 to 26.0
+television_fire_alarm,music;television;speech;fire alarm,2705.0 to 2710.0,https://www.youtube.com/watch?v=-2gDc8ENQw8,22.0 to 27.0,https://www.youtube.com/watch?v=3YxzXprgiA0,23.0 to 28.0
+television_fire_alarm,music;television;fire alarm,2710.0 to 2715.0,https://www.youtube.com/watch?v=-2hDoZ4yUy0,31.0 to 36.0,https://www.youtube.com/watch?v=3ZrCn3Pujmo,1.0 to 6.0
+television_fire_alarm,music;television;fire alarm,2715.0 to 2720.0,https://www.youtube.com/watch?v=-2hND1B8VOU,31.0 to 36.0,https://www.youtube.com/watch?v=3qcV4fTEeb4,301.0 to 306.0
+television_fire_alarm,music;television;fire alarm,2720.0 to 2725.0,https://www.youtube.com/watch?v=-3fZboxjMLc,1.0 to 3.0,https://www.youtube.com/watch?v=3rky5IrE0L8,91.0 to 96.0
+television_fire_alarm,television;fire alarm,2725.0 to 2730.0,https://www.youtube.com/watch?v=-4kna0BxXkU,1.0 to 4.0,https://www.youtube.com/watch?v=3vY9TXRwM_c,181.0 to 186.0
+television_fire_alarm,television;fire alarm,2730.0 to 2735.0,https://www.youtube.com/watch?v=-521k7QnrSk,71.0 to 76.0,https://www.youtube.com/watch?v=4dXcz9B3sV8,11.0 to 16.0
+television_fire_alarm,music;television;speech;fire alarm,2735.0 to 2740.0,https://www.youtube.com/watch?v=-52FrZ0RN5M,10.0 to 15.0,https://www.youtube.com/watch?v=4iYEmP6r4J8,31.0 to 36.0
+television_fire_alarm,television;speech;fire alarm,2740.0 to 2745.0,https://www.youtube.com/watch?v=-57pV9HAz2E,31.0 to 36.0,https://www.youtube.com/watch?v=4qlHf8VEJFE,111.0 to 116.0
+television_fire_alarm,television;speech;fire alarm,2745.0 to 2750.0,https://www.youtube.com/watch?v=-5R0bjd4W1c,31.0 to 36.0,https://www.youtube.com/watch?v=5DNmaYCRFGc,181.0 to 186.0
+television_fire_alarm,music;television;fire alarm,2750.0 to 2755.0,https://www.youtube.com/watch?v=-6f_a3I8jmg,1.0 to 6.0,https://www.youtube.com/watch?v=5GFWog3rkOo,191.0 to 196.0
+television_fire_alarm,music;television;speech;fire alarm,2755.0 to 2760.0,https://www.youtube.com/watch?v=-7icXiw3oWg,1.0 to 6.0,https://www.youtube.com/watch?v=5HJ2NutXPfI,11.0 to 16.0
+television_fire_alarm,television;speech;fire alarm,2760.0 to 2765.0,https://www.youtube.com/watch?v=-7u3faUt80k,31.0 to 36.0,https://www.youtube.com/watch?v=5QMVOaxcVmI,121.0 to 126.0
+television_fire_alarm,music;television;speech;fire alarm,2765.0 to 2770.0,https://www.youtube.com/watch?v=-84v6f6JkJE,23.0 to 28.0,https://www.youtube.com/watch?v=660AJ1w2pJ8,31.0 to 36.0
+television_fire_alarm,music;television;fire alarm,2770.0 to 2775.0,https://www.youtube.com/watch?v=-8Rn68h3JTs,2.0 to 7.0,https://www.youtube.com/watch?v=6WVCDuA2BeE,181.0 to 186.0
+television_fire_alarm,music;television;fire alarm,2775.0 to 2780.0,https://www.youtube.com/watch?v=-9LUlDlBcgw,1.0 to 4.0,https://www.youtube.com/watch?v=87LFO6J31iM,31.0 to 36.0
+fire_alarm_water,fire alarm;water,2780.0 to 2785.0,https://www.youtube.com/watch?v=-M88hG5X8fQ,11.0 to 16.0,https://www.youtube.com/watch?v=--OBFOUWZi0,91.0 to 96.0
+fire_alarm_water,fire alarm;water,2785.0 to 2790.0,https://www.youtube.com/watch?v=0BEtPXdDQrs,251.0 to 256.0,https://www.youtube.com/watch?v=-2T-couEK1Y,91.0 to 96.0
+fire_alarm_water,fire alarm;water,2790.0 to 2795.0,https://www.youtube.com/watch?v=0QJDqCcTDD4,101.0 to 106.0,https://www.youtube.com/watch?v=-2UelknZGow,7.0 to 12.0
+fire_alarm_water,fire alarm;water,2795.0 to 2800.0,https://www.youtube.com/watch?v=1qku5sNlbhQ,71.0 to 76.0,https://www.youtube.com/watch?v=-5AkgPTVovM,31.0 to 36.0
+fire_alarm_water,fire alarm;water,2800.0 to 2805.0,https://www.youtube.com/watch?v=25aBtgCxEug,441.0 to 446.0,https://www.youtube.com/watch?v=-77FQmCQ53k,11.0 to 16.0
+fire_alarm_water,fire alarm;water,2805.0 to 2810.0,https://www.youtube.com/watch?v=3ComHEFnxpQ,1.0 to 6.0,https://www.youtube.com/watch?v=-AJxrQVrimU,1.0 to 6.0
+fire_alarm_water,fire alarm;water,2810.0 to 2815.0,https://www.youtube.com/watch?v=3ISCUTeusjE,71.0 to 76.0,https://www.youtube.com/watch?v=-D4a8YW74-g,31.0 to 36.0
+fire_alarm_water,fire alarm;water,2815.0 to 2820.0,https://www.youtube.com/watch?v=3KnomsL4BnA,131.0 to 136.0,https://www.youtube.com/watch?v=-EpyTyxKg8U,81.0 to 86.0
+fire_alarm_water,fire alarm;water,2820.0 to 2825.0,https://www.youtube.com/watch?v=3Q7NQ2ddnv4,21.0 to 26.0,https://www.youtube.com/watch?v=-FxGXm-D2QM,31.0 to 36.0
+fire_alarm_water,fire alarm;water,2825.0 to 2830.0,https://www.youtube.com/watch?v=3YxzXprgiA0,23.0 to 28.0,https://www.youtube.com/watch?v=-GtdmI1Tqnw,31.0 to 36.0
+fire_alarm_water,fire alarm;water,2830.0 to 2835.0,https://www.youtube.com/watch?v=3ZrCn3Pujmo,1.0 to 6.0,https://www.youtube.com/watch?v=-LmmObHeT0A,31.0 to 36.0
+fire_alarm_water,fire alarm;water,2835.0 to 2840.0,https://www.youtube.com/watch?v=3qcV4fTEeb4,301.0 to 306.0,https://www.youtube.com/watch?v=-NLmGSskSYk,11.0 to 16.0
+fire_alarm_water,fire alarm;water,2840.0 to 2845.0,https://www.youtube.com/watch?v=3rky5IrE0L8,91.0 to 96.0,https://www.youtube.com/watch?v=-NknsEwftDk,31.0 to 36.0
+fire_alarm_water,fire alarm;water,2845.0 to 2850.0,https://www.youtube.com/watch?v=3vY9TXRwM_c,181.0 to 186.0,https://www.youtube.com/watch?v=-OcKia5tJ0g,14.0 to 19.0
+fire_alarm_water,fire alarm;water,2850.0 to 2855.0,https://www.youtube.com/watch?v=4dXcz9B3sV8,11.0 to 16.0,https://www.youtube.com/watch?v=-PHtCCUN_a0,31.0 to 36.0
+fire_alarm_water,fire alarm;water,2855.0 to 2860.0,https://www.youtube.com/watch?v=4iYEmP6r4J8,31.0 to 36.0,https://www.youtube.com/watch?v=-Qunm9_q7Dk,31.0 to 36.0
+fire_alarm_water,fire alarm;water,2860.0 to 2865.0,https://www.youtube.com/watch?v=4qlHf8VEJFE,111.0 to 116.0,https://www.youtube.com/watch?v=-SLeq4CoIg8,181.0 to 186.0
+fire_alarm_water,fire alarm;water,2865.0 to 2870.0,https://www.youtube.com/watch?v=5DNmaYCRFGc,181.0 to 186.0,https://www.youtube.com/watch?v=-UNUYf9Y-4Q,31.0 to 36.0
+fire_alarm_water,fire alarm;water,2870.0 to 2875.0,https://www.youtube.com/watch?v=5GFWog3rkOo,191.0 to 196.0,https://www.youtube.com/watch?v=-UdzibtuaKk,11.0 to 16.0
+fire_alarm_water,fire alarm;water,2875.0 to 2880.0,https://www.youtube.com/watch?v=5HJ2NutXPfI,11.0 to 16.0,https://www.youtube.com/watch?v=-UsXa6F-ZlM,391.0 to 396.0
+fire_alarm_water,fire alarm;water,2880.0 to 2885.0,https://www.youtube.com/watch?v=5QMVOaxcVmI,121.0 to 126.0,https://www.youtube.com/watch?v=-X8hzDxUzsU,111.0 to 116.0
+fire_alarm_water,fire alarm;water,2885.0 to 2890.0,https://www.youtube.com/watch?v=660AJ1w2pJ8,31.0 to 36.0,https://www.youtube.com/watch?v=-aB3kYZ_B9U,251.0 to 256.0
+fire_alarm_water,fire alarm;water,2890.0 to 2895.0,https://www.youtube.com/watch?v=6WVCDuA2BeE,181.0 to 186.0,https://www.youtube.com/watch?v=-bf4LMAt-Tg,13.0 to 18.0
+fire_alarm_water,fire alarm;water,2895.0 to 2900.0,https://www.youtube.com/watch?v=87LFO6J31iM,31.0 to 36.0,https://www.youtube.com/watch?v=-fYn52JCV9g,171.0 to 176.0
+speech_music,speech;music,2900.0 to 2905.0,https://www.youtube.com/watch?v=---2_BBVHAA,31.0 to 36.0,https://www.youtube.com/watch?v=---B_v8ZoBY,31.0 to 36.0
+speech_music,speech;music,2905.0 to 2910.0,https://www.youtube.com/watch?v=---qub7uxgs,31.0 to 36.0,https://www.youtube.com/watch?v=--0AzKXCHj8,23.0 to 28.0
+speech_music,speech;music,2910.0 to 2915.0,https://www.youtube.com/watch?v=--0B3G_C3qc,11.0 to 16.0,https://www.youtube.com/watch?v=--2URMA4_Gw,31.0 to 36.0
+speech_music,speech;music,2915.0 to 2920.0,https://www.youtube.com/watch?v=--0CNhurbZE,31.0 to 36.0,https://www.youtube.com/watch?v=--3FNDQ-EfE,31.0 to 36.0
+speech_music,speech;music,2920.0 to 2925.0,https://www.youtube.com/watch?v=--0F7kbzAMA,31.0 to 36.0,https://www.youtube.com/watch?v=--3hodJyWWM,21.0 to 26.0
+speech_music,speech;music,2925.0 to 2930.0,https://www.youtube.com/watch?v=--0MF9K5N30,31.0 to 36.0,https://www.youtube.com/watch?v=--3lOAqWlwI,31.0 to 36.0
+speech_music,speech;music,2930.0 to 2935.0,https://www.youtube.com/watch?v=--0pVlB7mQ8,31.0 to 36.0,https://www.youtube.com/watch?v=--4r-bP8sfE,31.0 to 36.0
+speech_music,speech;music,2935.0 to 2940.0,https://www.youtube.com/watch?v=--0ukMG7yH4,31.0 to 36.0,https://www.youtube.com/watch?v=--4rtcXPH0c,31.0 to 36.0
+speech_music,speech;music,2940.0 to 2945.0,https://www.youtube.com/watch?v=--1Bi_4aXyU,31.0 to 36.0,https://www.youtube.com/watch?v=--8naMk20PA,30.0 to 35.0
+speech_music,speech;music,2945.0 to 2950.0,https://www.youtube.com/watch?v=--1nnAww5MY,171.0 to 176.0,https://www.youtube.com/watch?v=--9qaflvptM,31.0 to 36.0
+speech_music,speech;music,2950.0 to 2955.0,https://www.youtube.com/watch?v=--27rbu__kM,31.0 to 36.0,https://www.youtube.com/watch?v=--ALJdZpYoA,31.0 to 36.0
+speech_music,speech;music,2955.0 to 2960.0,https://www.youtube.com/watch?v=--296-zXH3I,31.0 to 36.0,https://www.youtube.com/watch?v=--ALMd2UbwA,31.0 to 36.0
+speech_music,speech;music,2960.0 to 2965.0,https://www.youtube.com/watch?v=--2ENPwFQLY,31.0 to 36.0,https://www.youtube.com/watch?v=--AndYr26Ns,91.0 to 96.0
+speech_music,speech;music,2965.0 to 2970.0,https://www.youtube.com/watch?v=--30J4RIDXs,31.0 to 36.0,https://www.youtube.com/watch?v=--BnbZUiZ8o,31.0 to 36.0
+speech_music,speech;music,2970.0 to 2975.0,https://www.youtube.com/watch?v=--3SH5_r-BU,31.0 to 36.0,https://www.youtube.com/watch?v=--C6HJ_gBPI,31.0 to 36.0
+speech_music,speech;music,2975.0 to 2980.0,https://www.youtube.com/watch?v=--3T7dwFLjU,31.0 to 36.0,https://www.youtube.com/watch?v=--CIar_Kl4Y,31.0 to 36.0
+speech_music,speech;music,2980.0 to 2985.0,https://www.youtube.com/watch?v=--3mqI-rLFQ,31.0 to 36.0,https://www.youtube.com/watch?v=--CZ-HqbveY,31.0 to 36.0
+speech_music,speech;music,2985.0 to 2990.0,https://www.youtube.com/watch?v=--44ksVCX4g,131.0 to 136.0,https://www.youtube.com/watch?v=--Dqm421zY0,31.0 to 36.0
+speech_music,speech;music,2990.0 to 2995.0,https://www.youtube.com/watch?v=--4AZakCudI,31.0 to 36.0,https://www.youtube.com/watch?v=--F4laYscYE,31.0 to 36.0
+speech_music,speech;music,2995.0 to 3000.0,https://www.youtube.com/watch?v=--4CM0LIKBA,31.0 to 36.0,https://www.youtube.com/watch?v=--F7pocClyA,31.0 to 36.0
+speech_music,speech;music,3000.0 to 3005.0,https://www.youtube.com/watch?v=--4G-oot8ww,31.0 to 36.0,https://www.youtube.com/watch?v=--FMnzXQLik,31.0 to 36.0
+speech_music,speech;music,3005.0 to 3010.0,https://www.youtube.com/watch?v=--4L-eLH27c,31.0 to 36.0,https://www.youtube.com/watch?v=--G3Nkp8kbY,31.0 to 36.0
+speech_music,speech;music,3010.0 to 3015.0,https://www.youtube.com/watch?v=--4QdQLdWuQ,20.0 to 25.0,https://www.youtube.com/watch?v=--GO4mUUJrE,22.0 to 27.0
+speech_music,speech;music,3015.0 to 3020.0,https://www.youtube.com/watch?v=--4XCYPABls,31.0 to 36.0,https://www.youtube.com/watch?v=--GV991-tmA,31.0 to 36.0
+television_drawer_open_or_close,television;speech;drawer open or close,3020.0 to 3025.0,https://www.youtube.com/watch?v=-0F3UWMRsXg,31.0 to 36.0,https://www.youtube.com/watch?v=-FakAjtg2uk,26.0 to 31.0
+television_drawer_open_or_close,music;television;drawer open or close,3025.0 to 3030.0,https://www.youtube.com/watch?v=-0HCoFwA-ZM,17.0 to 22.0,https://www.youtube.com/watch?v=-S4KxMmj_SI,221.0 to 226.0
+television_drawer_open_or_close,music;television;speech;drawer open or close,3030.0 to 3035.0,https://www.youtube.com/watch?v=-0HIY5GQ7qs,1.0 to 6.0,https://www.youtube.com/watch?v=0ljrgCrawsg,241.0 to 246.0
+television_drawer_open_or_close,music;television;drawer open or close,3035.0 to 3040.0,https://www.youtube.com/watch?v=-0SUfJHqSyY,1.0 to 6.0,https://www.youtube.com/watch?v=0t1hN67OU7M,131.0 to 136.0
+television_drawer_open_or_close,music;television;drawer open or close,3040.0 to 3045.0,https://www.youtube.com/watch?v=-0SbLD6Du_o,1.0 to 6.0,https://www.youtube.com/watch?v=1slmvQmNJ-Y,31.0 to 36.0
+television_drawer_open_or_close,music;television;drawer open or close,3045.0 to 3050.0,https://www.youtube.com/watch?v=-0bNVGSAVNs,31.0 to 36.0,https://www.youtube.com/watch?v=4MX8Z4ZxjiQ,21.0 to 26.0
+television_drawer_open_or_close,music;television;drawer open or close,3050.0 to 3055.0,https://www.youtube.com/watch?v=-1530mrueEY,13.0 to 18.0,https://www.youtube.com/watch?v=4jJBRLJLwbY,171.0 to 176.0
+television_drawer_open_or_close,television;speech;drawer open or close,3055.0 to 3060.0,https://www.youtube.com/watch?v=-25qfL4m9go,31.0 to 36.0,https://www.youtube.com/watch?v=4yn2Bpag12o,181.0 to 186.0
+television_drawer_open_or_close,music;television;drawer open or close,3060.0 to 3065.0,https://www.youtube.com/watch?v=-2HxeODYXu4,121.0 to 126.0,https://www.youtube.com/watch?v=5EggSP0FL3Y,191.0 to 196.0
+television_drawer_open_or_close,music;television;speech;drawer open or close,3065.0 to 3070.0,https://www.youtube.com/watch?v=-2gDc8ENQw8,22.0 to 27.0,https://www.youtube.com/watch?v=7TwvU6UEh-w,111.0 to 116.0
+television_drawer_open_or_close,music;television;drawer open or close,3070.0 to 3075.0,https://www.youtube.com/watch?v=-2hDoZ4yUy0,31.0 to 36.0,https://www.youtube.com/watch?v=8f6KWwG8lEs,31.0 to 36.0
+television_drawer_open_or_close,music;television;drawer open or close,3075.0 to 3080.0,https://www.youtube.com/watch?v=-2hND1B8VOU,31.0 to 36.0,https://www.youtube.com/watch?v=92SpwzFWhXk,511.0 to 516.0
+television_drawer_open_or_close,music;television;drawer open or close,3080.0 to 3085.0,https://www.youtube.com/watch?v=-3fZboxjMLc,1.0 to 3.0,https://www.youtube.com/watch?v=C8mXWBmjUEk,241.0 to 246.0
+television_drawer_open_or_close,television;drawer open or close,3085.0 to 3090.0,https://www.youtube.com/watch?v=-4kna0BxXkU,1.0 to 4.0,https://www.youtube.com/watch?v=ERtge0S7adY,591.0 to 596.0
+television_drawer_open_or_close,television;drawer open or close,3090.0 to 3095.0,https://www.youtube.com/watch?v=-521k7QnrSk,71.0 to 76.0,https://www.youtube.com/watch?v=GXN8in-WRGw,31.0 to 36.0
+television_drawer_open_or_close,music;television;speech;drawer open or close,3095.0 to 3100.0,https://www.youtube.com/watch?v=-52FrZ0RN5M,10.0 to 15.0,https://www.youtube.com/watch?v=IUgfBal4v1U,191.0 to 196.0
+television_drawer_open_or_close,television;speech;drawer open or close,3100.0 to 3105.0,https://www.youtube.com/watch?v=-57pV9HAz2E,31.0 to 36.0,https://www.youtube.com/watch?v=Ns3yESed4Pg,27.0 to 32.0
+television_drawer_open_or_close,television;speech;drawer open or close,3105.0 to 3110.0,https://www.youtube.com/watch?v=-5R0bjd4W1c,31.0 to 36.0,https://www.youtube.com/watch?v=Qk6eVp7ot1A,141.0 to 146.0
+television_drawer_open_or_close,music;television;drawer open or close,3110.0 to 3115.0,https://www.youtube.com/watch?v=-6f_a3I8jmg,1.0 to 6.0,https://www.youtube.com/watch?v=SMjUdE9YXXU,1.0 to 6.0
+television_drawer_open_or_close,music;television;speech;drawer open or close,3115.0 to 3120.0,https://www.youtube.com/watch?v=-7icXiw3oWg,1.0 to 6.0,https://www.youtube.com/watch?v=SfpljFYdUb4,1.0 to 6.0
+television_drawer_open_or_close,television;speech;drawer open or close,3120.0 to 3125.0,https://www.youtube.com/watch?v=-7u3faUt80k,31.0 to 36.0,https://www.youtube.com/watch?v=Syxz05Q7Irc,131.0 to 136.0
+television_drawer_open_or_close,music;television;speech;drawer open or close,3125.0 to 3130.0,https://www.youtube.com/watch?v=-84v6f6JkJE,23.0 to 28.0,https://www.youtube.com/watch?v=V2P0ev4j568,1.0 to 6.0
+television_drawer_open_or_close,music;television;drawer open or close,3130.0 to 3135.0,https://www.youtube.com/watch?v=-8Rn68h3JTs,2.0 to 7.0,https://www.youtube.com/watch?v=WokleeCWvA4,1.0 to 6.0
+television_drawer_open_or_close,music;television;drawer open or close,3135.0 to 3140.0,https://www.youtube.com/watch?v=-9LUlDlBcgw,1.0 to 4.0,https://www.youtube.com/watch?v=Y71YAfb0Q74,1.0 to 6.0
+rail_transport_fire_alarm,rail transport;fire alarm,3140.0 to 3145.0,https://www.youtube.com/watch?v=0GCKlf0CYqo,31.0 to 36.0,https://www.youtube.com/watch?v=-M88hG5X8fQ,11.0 to 16.0
+rail_transport_fire_alarm,rail transport;fire alarm,3145.0 to 3150.0,https://www.youtube.com/watch?v=16c6NcNte5g,21.0 to 26.0,https://www.youtube.com/watch?v=0BEtPXdDQrs,251.0 to 256.0
+rail_transport_fire_alarm,rail transport;fire alarm,3150.0 to 3155.0,https://www.youtube.com/watch?v=2-CpIlLNIyg,31.0 to 36.0,https://www.youtube.com/watch?v=0QJDqCcTDD4,101.0 to 106.0
+rail_transport_fire_alarm,rail transport;fire alarm,3155.0 to 3160.0,https://www.youtube.com/watch?v=3lY0mff-lxQ,21.0 to 26.0,https://www.youtube.com/watch?v=1qku5sNlbhQ,71.0 to 76.0
+rail_transport_fire_alarm,rail transport;fire alarm,3160.0 to 3165.0,https://www.youtube.com/watch?v=0GCKlf0CYqo,31.0 to 36.0,https://www.youtube.com/watch?v=25aBtgCxEug,441.0 to 446.0
+rail_transport_fire_alarm,rail transport;fire alarm,3165.0 to 3170.0,https://www.youtube.com/watch?v=16c6NcNte5g,21.0 to 26.0,https://www.youtube.com/watch?v=3ComHEFnxpQ,1.0 to 6.0
+rail_transport_fire_alarm,rail transport;fire alarm,3170.0 to 3175.0,https://www.youtube.com/watch?v=2-CpIlLNIyg,31.0 to 36.0,https://www.youtube.com/watch?v=3ISCUTeusjE,71.0 to 76.0
+rail_transport_fire_alarm,rail transport;fire alarm,3175.0 to 3180.0,https://www.youtube.com/watch?v=3lY0mff-lxQ,21.0 to 26.0,https://www.youtube.com/watch?v=3KnomsL4BnA,131.0 to 136.0
+rail_transport_fire_alarm,rail transport;fire alarm,3180.0 to 3185.0,https://www.youtube.com/watch?v=0GCKlf0CYqo,31.0 to 36.0,https://www.youtube.com/watch?v=3Q7NQ2ddnv4,21.0 to 26.0
+rail_transport_fire_alarm,rail transport;fire alarm,3185.0 to 3190.0,https://www.youtube.com/watch?v=16c6NcNte5g,21.0 to 26.0,https://www.youtube.com/watch?v=3YxzXprgiA0,23.0 to 28.0
+rail_transport_fire_alarm,rail transport;fire alarm,3190.0 to 3195.0,https://www.youtube.com/watch?v=2-CpIlLNIyg,31.0 to 36.0,https://www.youtube.com/watch?v=3ZrCn3Pujmo,1.0 to 6.0
+rail_transport_fire_alarm,rail transport;fire alarm,3195.0 to 3200.0,https://www.youtube.com/watch?v=3lY0mff-lxQ,21.0 to 26.0,https://www.youtube.com/watch?v=3qcV4fTEeb4,301.0 to 306.0
+rail_transport_fire_alarm,rail transport;fire alarm,3200.0 to 3205.0,https://www.youtube.com/watch?v=0GCKlf0CYqo,31.0 to 36.0,https://www.youtube.com/watch?v=3rky5IrE0L8,91.0 to 96.0
+rail_transport_fire_alarm,rail transport;fire alarm,3205.0 to 3210.0,https://www.youtube.com/watch?v=16c6NcNte5g,21.0 to 26.0,https://www.youtube.com/watch?v=3vY9TXRwM_c,181.0 to 186.0
+rail_transport_fire_alarm,rail transport;fire alarm,3210.0 to 3215.0,https://www.youtube.com/watch?v=2-CpIlLNIyg,31.0 to 36.0,https://www.youtube.com/watch?v=4dXcz9B3sV8,11.0 to 16.0
+rail_transport_fire_alarm,rail transport;fire alarm,3215.0 to 3220.0,https://www.youtube.com/watch?v=3lY0mff-lxQ,21.0 to 26.0,https://www.youtube.com/watch?v=4iYEmP6r4J8,31.0 to 36.0
+rail_transport_fire_alarm,rail transport;fire alarm,3220.0 to 3225.0,https://www.youtube.com/watch?v=0GCKlf0CYqo,31.0 to 36.0,https://www.youtube.com/watch?v=4qlHf8VEJFE,111.0 to 116.0
+rail_transport_fire_alarm,rail transport;fire alarm,3225.0 to 3230.0,https://www.youtube.com/watch?v=16c6NcNte5g,21.0 to 26.0,https://www.youtube.com/watch?v=5DNmaYCRFGc,181.0 to 186.0
+rail_transport_fire_alarm,rail transport;fire alarm,3230.0 to 3235.0,https://www.youtube.com/watch?v=2-CpIlLNIyg,31.0 to 36.0,https://www.youtube.com/watch?v=5GFWog3rkOo,191.0 to 196.0
+rail_transport_fire_alarm,rail transport;fire alarm,3235.0 to 3240.0,https://www.youtube.com/watch?v=3lY0mff-lxQ,21.0 to 26.0,https://www.youtube.com/watch?v=5HJ2NutXPfI,11.0 to 16.0
+rail_transport_fire_alarm,rail transport;fire alarm,3240.0 to 3245.0,https://www.youtube.com/watch?v=0GCKlf0CYqo,31.0 to 36.0,https://www.youtube.com/watch?v=5QMVOaxcVmI,121.0 to 126.0
+rail_transport_fire_alarm,rail transport;fire alarm,3245.0 to 3250.0,https://www.youtube.com/watch?v=16c6NcNte5g,21.0 to 26.0,https://www.youtube.com/watch?v=660AJ1w2pJ8,31.0 to 36.0
+rail_transport_fire_alarm,rail transport;fire alarm,3250.0 to 3255.0,https://www.youtube.com/watch?v=2-CpIlLNIyg,31.0 to 36.0,https://www.youtube.com/watch?v=6WVCDuA2BeE,181.0 to 186.0
+rail_transport_fire_alarm,rail transport;fire alarm,3255.0 to 3260.0,https://www.youtube.com/watch?v=3lY0mff-lxQ,21.0 to 26.0,https://www.youtube.com/watch?v=87LFO6J31iM,31.0 to 36.0
+television_door,television;speech;door,3260.0 to 3265.0,https://www.youtube.com/watch?v=-0F3UWMRsXg,31.0 to 36.0,https://www.youtube.com/watch?v=-2kJxd9ZW9g,13.0 to 18.0
+television_door,music;television;door,3265.0 to 3270.0,https://www.youtube.com/watch?v=-0HCoFwA-ZM,17.0 to 22.0,https://www.youtube.com/watch?v=-43v51oAu6I,2.0 to 7.0
+television_door,music;television;speech;door,3270.0 to 3275.0,https://www.youtube.com/watch?v=-0HIY5GQ7qs,1.0 to 6.0,https://www.youtube.com/watch?v=-9TZ-Wx33_A,31.0 to 36.0
+television_door,music;television;door,3275.0 to 3280.0,https://www.youtube.com/watch?v=-0SUfJHqSyY,1.0 to 6.0,https://www.youtube.com/watch?v=-AWZTvUrw1o,101.0 to 106.0
+television_door,music;television;door,3280.0 to 3285.0,https://www.youtube.com/watch?v=-0SbLD6Du_o,1.0 to 6.0,https://www.youtube.com/watch?v=-C0Tx3VJB7M,31.0 to 36.0
+television_door,music;television;door,3285.0 to 3290.0,https://www.youtube.com/watch?v=-0bNVGSAVNs,31.0 to 36.0,https://www.youtube.com/watch?v=-EM73hFsBTk,31.0 to 36.0
+television_door,music;television;door,3290.0 to 3295.0,https://www.youtube.com/watch?v=-1530mrueEY,13.0 to 18.0,https://www.youtube.com/watch?v=-G8t8dMrZ4M,1.0 to 6.0
+television_door,television;speech;door,3295.0 to 3300.0,https://www.youtube.com/watch?v=-25qfL4m9go,31.0 to 36.0,https://www.youtube.com/watch?v=-GMc2WZqCOQ,12.0 to 17.0
+television_door,music;television;door,3300.0 to 3305.0,https://www.youtube.com/watch?v=-2HxeODYXu4,121.0 to 126.0,https://www.youtube.com/watch?v=-Kzza7idn94,181.0 to 186.0
+television_door,music;television;speech;door,3305.0 to 3310.0,https://www.youtube.com/watch?v=-2gDc8ENQw8,22.0 to 27.0,https://www.youtube.com/watch?v=-MHcSTmWNq8,1.0 to 6.0
+television_door,music;television;door,3310.0 to 3315.0,https://www.youtube.com/watch?v=-2hDoZ4yUy0,31.0 to 36.0,https://www.youtube.com/watch?v=-N2C9l8w3NQ,231.0 to 236.0
+television_door,music;television;door,3315.0 to 3320.0,https://www.youtube.com/watch?v=-2hND1B8VOU,31.0 to 36.0,https://www.youtube.com/watch?v=-Yghfuqj-6k,441.0 to 446.0
+television_door,music;television;door,3320.0 to 3325.0,https://www.youtube.com/watch?v=-3fZboxjMLc,1.0 to 3.0,https://www.youtube.com/watch?v=-_PsJYVRMoQ,31.0 to 36.0
+television_door,television;door,3325.0 to 3330.0,https://www.youtube.com/watch?v=-4kna0BxXkU,1.0 to 4.0,https://www.youtube.com/watch?v=-_qn_Hlqhjo,31.0 to 36.0
+television_door,television;door,3330.0 to 3335.0,https://www.youtube.com/watch?v=-521k7QnrSk,71.0 to 76.0,https://www.youtube.com/watch?v=-aTSKztGz_k,31.0 to 36.0
+television_door,music;television;speech;door,3335.0 to 3340.0,https://www.youtube.com/watch?v=-52FrZ0RN5M,10.0 to 15.0,https://www.youtube.com/watch?v=-ywydpvXI5g,18.0 to 23.0
+television_door,television;speech;door,3340.0 to 3345.0,https://www.youtube.com/watch?v=-57pV9HAz2E,31.0 to 36.0,https://www.youtube.com/watch?v=0-Xc6oWa9hs,10.0 to 15.0
+television_door,television;speech;door,3345.0 to 3350.0,https://www.youtube.com/watch?v=-5R0bjd4W1c,31.0 to 36.0,https://www.youtube.com/watch?v=037VysW-MUM,31.0 to 36.0
+television_door,music;television;door,3350.0 to 3355.0,https://www.youtube.com/watch?v=-6f_a3I8jmg,1.0 to 6.0,https://www.youtube.com/watch?v=03A_m507LjM,1.0 to 4.0
+television_door,music;television;speech;door,3355.0 to 3360.0,https://www.youtube.com/watch?v=-7icXiw3oWg,1.0 to 6.0,https://www.youtube.com/watch?v=07krQ661fok,1.0 to 6.0
+television_door,television;speech;door,3360.0 to 3365.0,https://www.youtube.com/watch?v=-7u3faUt80k,31.0 to 36.0,https://www.youtube.com/watch?v=0Em3FVQMfcE,3.0 to 8.0
+television_door,music;television;speech;door,3365.0 to 3370.0,https://www.youtube.com/watch?v=-84v6f6JkJE,23.0 to 28.0,https://www.youtube.com/watch?v=0Gl7_MoPvJM,31.0 to 36.0
+television_door,music;television;door,3370.0 to 3375.0,https://www.youtube.com/watch?v=-8Rn68h3JTs,2.0 to 7.0,https://www.youtube.com/watch?v=0QhVfzoK7CQ,31.0 to 36.0
+television_door,music;television;door,3375.0 to 3380.0,https://www.youtube.com/watch?v=-9LUlDlBcgw,1.0 to 4.0,https://www.youtube.com/watch?v=0R2xg1ZQRCo,10.0 to 15.0
+door_vehicle,door;vehicle,3380.0 to 3385.0,https://www.youtube.com/watch?v=-2kJxd9ZW9g,13.0 to 18.0,https://www.youtube.com/watch?v=--0XKTm28ts,51.0 to 56.0
+door_vehicle,door;vehicle,3385.0 to 3390.0,https://www.youtube.com/watch?v=-43v51oAu6I,2.0 to 7.0,https://www.youtube.com/watch?v=--6aF5STVP8,31.0 to 36.0
+door_vehicle,door;vehicle,3390.0 to 3395.0,https://www.youtube.com/watch?v=-9TZ-Wx33_A,31.0 to 36.0,https://www.youtube.com/watch?v=--D3mJ0wwrg,11.0 to 16.0
+door_vehicle,door;vehicle,3395.0 to 3400.0,https://www.youtube.com/watch?v=-AWZTvUrw1o,101.0 to 106.0,https://www.youtube.com/watch?v=--PDHCD2XDw,31.0 to 36.0
+door_vehicle,door;vehicle,3400.0 to 3405.0,https://www.youtube.com/watch?v=-C0Tx3VJB7M,31.0 to 36.0,https://www.youtube.com/watch?v=--UO9BIS-R0,31.0 to 36.0
+door_vehicle,door;vehicle,3405.0 to 3410.0,https://www.youtube.com/watch?v=-EM73hFsBTk,31.0 to 36.0,https://www.youtube.com/watch?v=--Xn_Zfv9sQ,30.0 to 35.0
+door_vehicle,door;vehicle,3410.0 to 3415.0,https://www.youtube.com/watch?v=-G8t8dMrZ4M,1.0 to 6.0,https://www.youtube.com/watch?v=-0FmHb06X-s,31.0 to 36.0
+door_vehicle,door;vehicle,3415.0 to 3420.0,https://www.youtube.com/watch?v=-GMc2WZqCOQ,12.0 to 17.0,https://www.youtube.com/watch?v=-0JYEEzlT-8,31.0 to 36.0
+door_vehicle,door;vehicle,3420.0 to 3425.0,https://www.youtube.com/watch?v=-Kzza7idn94,181.0 to 186.0,https://www.youtube.com/watch?v=-0QQZdhcQt0,31.0 to 36.0
+door_vehicle,door;vehicle,3425.0 to 3430.0,https://www.youtube.com/watch?v=-MHcSTmWNq8,1.0 to 6.0,https://www.youtube.com/watch?v=-0dmPgqorkk,31.0 to 36.0
+door_vehicle,door;vehicle,3430.0 to 3435.0,https://www.youtube.com/watch?v=-N2C9l8w3NQ,231.0 to 236.0,https://www.youtube.com/watch?v=-0m6wSBNS_g,71.0 to 76.0
+door_vehicle,door;vehicle,3435.0 to 3440.0,https://www.youtube.com/watch?v=-Yghfuqj-6k,441.0 to 446.0,https://www.youtube.com/watch?v=-18nX6HO5QU,41.0 to 46.0
+door_vehicle,door;vehicle,3440.0 to 3445.0,https://www.youtube.com/watch?v=-_PsJYVRMoQ,31.0 to 36.0,https://www.youtube.com/watch?v=-1FLdap8zzI,31.0 to 36.0
+door_vehicle,door;vehicle,3445.0 to 3450.0,https://www.youtube.com/watch?v=-_qn_Hlqhjo,31.0 to 36.0,https://www.youtube.com/watch?v=-1PXXuFCtF0,31.0 to 36.0
+door_vehicle,door;vehicle,3450.0 to 3455.0,https://www.youtube.com/watch?v=-aTSKztGz_k,31.0 to 36.0,https://www.youtube.com/watch?v=-1j17BOI8eM,31.0 to 36.0
+door_vehicle,door;vehicle,3455.0 to 3460.0,https://www.youtube.com/watch?v=-ywydpvXI5g,18.0 to 23.0,https://www.youtube.com/watch?v=-1nnL5IbY9U,31.0 to 36.0
+door_vehicle,door;vehicle,3460.0 to 3465.0,https://www.youtube.com/watch?v=0-Xc6oWa9hs,10.0 to 15.0,https://www.youtube.com/watch?v=-2Dn1lJPhYY,31.0 to 36.0
+door_vehicle,door;vehicle,3465.0 to 3470.0,https://www.youtube.com/watch?v=037VysW-MUM,31.0 to 36.0,https://www.youtube.com/watch?v=-2J2tTo6WQs,301.0 to 306.0
+door_vehicle,door;vehicle,3470.0 to 3475.0,https://www.youtube.com/watch?v=03A_m507LjM,1.0 to 4.0,https://www.youtube.com/watch?v=-2bHggyjwGc,31.0 to 36.0
+door_vehicle,door;vehicle,3475.0 to 3480.0,https://www.youtube.com/watch?v=07krQ661fok,1.0 to 6.0,https://www.youtube.com/watch?v=-2vWzZPmHYI,31.0 to 36.0
+door_vehicle,door;vehicle,3480.0 to 3485.0,https://www.youtube.com/watch?v=0Em3FVQMfcE,3.0 to 8.0,https://www.youtube.com/watch?v=-3-Zisupbeo,31.0 to 36.0
+door_vehicle,door;vehicle,3485.0 to 3490.0,https://www.youtube.com/watch?v=0Gl7_MoPvJM,31.0 to 36.0,https://www.youtube.com/watch?v=-3KtNOqHb2A,31.0 to 36.0
+door_vehicle,door;vehicle,3490.0 to 3495.0,https://www.youtube.com/watch?v=0QhVfzoK7CQ,31.0 to 36.0,https://www.youtube.com/watch?v=-3W7aoSLg8M,31.0 to 36.0
+door_vehicle,door;vehicle,3495.0 to 3500.0,https://www.youtube.com/watch?v=0R2xg1ZQRCo,10.0 to 15.0,https://www.youtube.com/watch?v=-3_3fqA600E,5.0 to 10.0
