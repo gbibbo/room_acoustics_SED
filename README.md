@@ -136,7 +136,7 @@ room_acoustics_SED/
 If you use this repository or data, please cite:
 
 > Bibbó, G., Cieciura, C., & Plumbley, M. D. (2025). Room Acoustics and Microphone Characteristics Show Systematic Impact on Sound Event Recognition. INTER-NOISE 2025.  
-> [Link to Article](ARTICLE.pdf)
+> [Link to Article](IN2025_1070751.pdf)
 
 ---
 
