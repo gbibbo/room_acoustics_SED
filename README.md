@@ -83,6 +83,19 @@ room_acoustics_SED/
 
 ---
 
+## Visual Results
+
+### Results from the first 30 minutes (single-class segments)
+![Results single class](images/results_single_class.png)
+
+### Results from the last 30 minutes (overlapping-class segments, primary class)
+![Results overlap classA](images/results_overlap_classA.png)
+
+### Results from the last 30 minutes (overlapping-class segments, complementary class)
+![Results overlap classB](images/results_overlap_classB.png)
+
+---
+
 ## Data Description
 
 ### Audio Generation
