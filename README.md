@@ -27,21 +27,14 @@ These resources enable full transparency and reproducibility of the results disc
 
 ```
 room_acoustics_SED/
-├── code/
-│   └── audio_generation/
-│       ├── generate_audio.py
-│       └── ...
-├── data/
-│   ├── annotations.csv
-│   └── experiment_results.csv
-├── images/
-│   ├── results_single_class.png
-│   ├── results_overlap_classA.png
-│   └── results_overlap_classB.png
-├── audio/
-│   └── experiment_audio.wav
+├── audio_generation.py
+├── annotations.csv
+├── results.csv
+├── results_single_class.png
+├── results_overlap_classA.png
+├── results_overlap_classB.png
 ├── README.md
-└── ARTICLE.pdf
+└── IN2025_1070751.pdf
 ```
 
 - `code/audio_generation/`: Scripts and notebooks to generate the audio and process annotations.
@@ -66,17 +59,17 @@ room_acoustics_SED/
 
 2. **Review the audio generation code**
 
-   - All scripts for generating the experimental audio and processing YouTube metadata are in `code/audio_generation/`.
-   - The main script is `generate_audio.py`. See comments for usage instructions.
+   - All scripts for generating the experimental audio and processing YouTube metadata are in `audio_generation/`.
+   - The main script is `audio_generation.py`. See comments for usage instructions.
 
 3. **Explore the data**
 
-   - `data/annotations.csv`: Lists every used YouTube video, the time intervals, and the mapped class label.
-   - `data/experiment_results.csv`: Contains all model outputs, including frame-level occurrence, mean probability, and confidence scores for each configuration.
+   - `annotations.csv`: Lists every used YouTube video, the time intervals, and the mapped class label.
+   - `results.csv`: Contains all model outputs, including frame-level occurrence, mean probability, and confidence scores for each configuration.
 
 4. **View analysis results**
 
-   - Visit the `images/` folder for summary figures as shown in the article:
+   - Figures as shown in the article:
      - `results_single_class.png`: Performance for each class, room, and microphone (first 30 mins).
      - `results_overlap_classA.png`: Overlapping classes, impact on primary class (last 30 mins).
      - `results_overlap_classB.png`: Overlapping classes, impact on complementary class.
@@ -104,11 +97,11 @@ room_acoustics_SED/
 - Segments were normalized, compressed, and concatenated to form:
   - 30 minutes of single-class audio (2 minutes per class)
   - 30 minutes of overlapping-class audio (15 unique class pairs, 2 minutes per pair)
-- See the scripts in `code/audio_generation/` for all processing details.
+- See the scripts in `audio_generation/` for all processing details.
 
 ### Annotations
 
-- Each 1-second segment is tracked in `data/annotations.csv` with:
+- Each 1-second segment is tracked in `annotations.csv` with:
   - YouTube video ID
   - Start/end timestamps
   - Assigned class(es)
@@ -116,7 +109,7 @@ room_acoustics_SED/
 
 ### Experimental Results
 
-- `data/experiment_results.csv` contains:
+- `results.csv` contains:
   - Room, microphone, class, and overlap configuration
   - Frame-level detection occurrence (%)
   - Mean probability/confidence assigned to the correct class
