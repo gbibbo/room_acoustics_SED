@@ -11,9 +11,9 @@ Centre for Vision, Speech and Signal Processing (CVSSP), University of Surrey, U
 
 This repository is a companion to the above article. It contains:
 
-- **Audio generation code:** Scripts to generate the standardized 60-minute audio file from AudioSet, including pre-processing (normalization, compression, mixing of classes, concatenation).
-- **Annotations CSV:** A CSV file containing the YouTube video IDs, timestamps, and class labels used to construct the experimental audio segments.
-- **Experimental results CSV:** A CSV file with all frame-level results for every experimental configuration (room, microphone, class, etc).
+- **Audio generation code (audio_generation.py):** Scripts to generate the standardized 60-minute audio file from AudioSet, including pre-processing (normalization, compression, mixing of classes, concatenation).
+- **Annotations CSV (annotations.csv):** A CSV file containing the YouTube video IDs, timestamps, and class labels used to construct the experimental audio segments.
+- **Experimental results CSV (results.csv):** A CSV file with all frame-level results for every experimental configuration (room, microphone, class, etc).
 - **Analysis result images:**
   - Results from the first 30 minutes (single-class segments)
   - Results from the last 30 minutes (overlapping-class segments, focusing on one class of each pair)
